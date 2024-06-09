@@ -1,12 +1,12 @@
 {
-  "dateCreated": "2024-06-09T18:46:53.295Z",
+  "dateCreated": "2024-06-09T18:46:53.839Z",
   "tracks": [
     {
-      "trackId": "USA300_sorted.gff",
+      "trackId": "Cowan_sgRNA_sorted.gff",
       "attributesIndexed": [
-        "name",
-        "gene",
-        "locus_tag"
+        "Name",
+        "ID",
+        "name"
       ],
       "excludedTypes": [
         "CDS",
@@ -17,18 +17,18 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/USA300/USA300_sorted.gff.gz"
+          "uri": "data/Cowan/Cowan_sgRNA_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/USA300/USA300_sorted.gff.gz.tbi"
+            "uri": "data/Cowan/Cowan_sgRNA_sorted.gff.gz.tbi"
           }
         }
       }
     }
   ],
   "assemblyNames": [
-    "USA300"
+    "Cowan"
   ]
 }

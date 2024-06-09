@@ -36,6 +36,12 @@
       }
     },
     {
+      "name": "RemoveCOG",
+      "umdLoc": {
+        "uri": "plugins/RemoveCOG.js"
+      }
+    },
+    {
       "name": "ReplaceSpaces",
       "umdLoc": {
         "uri": "plugins/ReplaceSpaces.js"
@@ -281,7 +287,75 @@
       ],
       "formatDetails": {
         "feature": "jexl:{name:italics(feature.name),type:capital(replaceuc(feature.type)), Source:capital(replaceuc(feature.source)), source:undefined, phase:undefined, id:undefined, Gene:italics(feature.gene), gene:undefined, Alias:italics(feature.alias), alias:undefined, Locus_tag:feature.locus_tag, locus_tag:undefined, Locus_tag_Cowan:feature.bsubtilis_locus_tag, bsubtilis_locus_tag:undefined, Subtiwiki_name:italics(feature.subtiwiki_name), subtiwiki_name:undefined, NCBI_name:italics(feature.ncbi_name), ncbi_name:undefined, UniProt:feature.uniprot_link != null ? '<a href=https://www.uniprot.org/uniprotkb/'+feature.uniprot_link+'>'+feature.uniprot_link+'</a>' : null, uniprot_link:undefined, SubtiWiki:feature.subtiwiki_link != null ? '<a href=https://subtiwiki.uni-goettingen.de/v4/gene?id='+feature.subtiwiki_link+'>'+'SubtiWiki'+'</a>' : null, subtiwiki_link:undefined, EC_number: feature.ec_number != null ? '<a href=https://enzyme.expasy.org/EC/'+feature.ec_number+'>'+feature.ec_number+'</a>' : null , ec_number:undefined}",
-        "subfeatures": "jexl:{accession:undefined, name:italics(feature.name), type:capital(feature.type), Source:replaceuc(feature.source), source:undefined, phase:undefined, id:undefined, parent:undefined, EC_number: feature.ec_number != null ? '<a href=https://enzyme.expasy.org/EC/'+feature.ec_number+'>'+feature.ec_number+'</a>' : null , ec_number:undefined, Gene:italics(feature.gene), gene:undefined, Inference:feature.inference != null ? capital(inference(feature.inference)) : null, inference:undefined, locus_tag:undefined, Product:capital(feature.product), product:undefined, protein_id:undefined, RFAM: feature.accession != null ? '<a href=https://rfam.org/family/'+feature.accession+'>'+feature.accession+'</a>' : null, note:undefined, Note: feature.note != null ? removequotes(feature.note): null}"
+        "subfeatures": "jexl:{accession:undefined, name:italics(feature.name), type:capital(feature.type), Source:replaceuc(feature.source), source:undefined, phase:undefined, id:undefined, parent:undefined, COG_number: feature.db_xref != null ? '<a href=https://www.ncbi.nlm.nih.gov/research/cog/cog/'+removecog(feature.db_xref)+'>'+removecog(feature.db_xref)+'</a>' : null, db_xref:undefined, EC_number: feature.ec_number != null ? '<a href=https://enzyme.expasy.org/EC/'+feature.ec_number+'>'+feature.ec_number+'</a>' : null , ec_number:undefined, Gene:italics(feature.gene), gene:undefined, Inference:feature.inference != null ? capital(inference(feature.inference)) : null, inference:undefined, locus_tag:undefined, Product:capital(feature.product), product:undefined, protein_id:undefined, RFAM: feature.accession != null ? '<a href=https://rfam.org/family/'+feature.accession+'>'+feature.accession+'</a>' : null, note:undefined, Note: feature.note != null ? removequotes(feature.note): null}"
+      }
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "Cowan_sgRNA_sorted.gff",
+      "name": "sgRNAs",
+      "assemblyNames": [
+        "Cowan"
+      ],
+      "category": [
+        "CRISPRi"
+      ],
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/Cowan/Cowan_sgRNA_sorted.gff.gz"
+        },
+        "index": {
+          "location": {
+            "locationType": "UriLocation",
+            "uri": "data/Cowan/Cowan_sgRNA_sorted.gff.gz.tbi"
+          }
+        }
+      },
+      "textSearching": {
+        "indexingAttributes": [
+          "Name",
+          "ID",
+          "name"
+        ],
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "Cowan_sgRNA_sorted.gff-index",
+          "ixFilePath": {
+            "uri": "trix/Cowan_sgRNA_sorted.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/Cowan_sgRNA_sorted.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/Cowan_sgRNA_sorted.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "Cowan"
+          ]
+        }
+      },
+      "displays": [
+        {
+          "type": "LinearBasicDisplay",
+          "displayId": "Cowan_sgRNA_sorted.gff-LinearBasicDisplay",
+          "mouseover": "jexl:sgrnatarget(get(feature,'target_gene_name'))",
+          "renderer": {
+            "type": "SvgFeatureRenderer",
+            "color1": "rgb(102, 194, 165)"
+          }
+        },
+        {
+          "type": "LinearArcDisplay",
+          "displayId": "Cowan_sgRNA_sorted.gff-LinearArcDisplay"
+        }
+      ],
+      "formatDetails": {
+        "feature": "jexl:{Source:'V. de Bakker', source:undefined, id:undefined, phase:undefined, Target_locus_tag:feature.target_locus_tag, target_locus_tag:undefined, Target_gene_name: feature.target_gene_name != feature.target_locus_tag ? italics(feature.target_gene_name) : null, target_gene_name:undefined}"
       }
     },
     {
@@ -292,8 +366,7 @@
         "Cowan"
       ],
       "category": [
-        "Genome characteristics",
-        "Miscellaneous"
+        "Genome Characteristics"
       ],
       "adapter": {
         "type": "NucContentAdapter",
@@ -394,7 +467,75 @@
       ],
       "formatDetails": {
         "feature": "jexl:{name:italics(feature.name),type:capital(replaceuc(feature.type)), Source:capital(replaceuc(feature.source)), source:undefined, phase:undefined, id:undefined, Gene:italics(feature.gene), gene:undefined, Alias:italics(feature.alias), alias:undefined, Locus_tag:feature.locus_tag, locus_tag:undefined, Locus_tag_CI2136:feature.bsubtilis_locus_tag, bsubtilis_locus_tag:undefined, Subtiwiki_name:italics(feature.subtiwiki_name), subtiwiki_name:undefined, NCBI_name:italics(feature.ncbi_name), ncbi_name:undefined, UniProt:feature.uniprot_link != null ? '<a href=https://www.uniprot.org/uniprotkb/'+feature.uniprot_link+'>'+feature.uniprot_link+'</a>' : null, uniprot_link:undefined, SubtiWiki:feature.subtiwiki_link != null ? '<a href=https://subtiwiki.uni-goettingen.de/v4/gene?id='+feature.subtiwiki_link+'>'+'SubtiWiki'+'</a>' : null, subtiwiki_link:undefined, EC_number: feature.ec_number != null ? '<a href=https://enzyme.expasy.org/EC/'+feature.ec_number+'>'+feature.ec_number+'</a>' : null , ec_number:undefined}",
-        "subfeatures": "jexl:{accession:undefined, name:italics(feature.name), type:capital(feature.type), Source:replaceuc(feature.source), source:undefined, phase:undefined, id:undefined, parent:undefined, EC_number: feature.ec_number != null ? '<a href=https://enzyme.expasy.org/EC/'+feature.ec_number+'>'+feature.ec_number+'</a>' : null , ec_number:undefined, Gene:italics(feature.gene), gene:undefined, Inference:feature.inference != null ? capital(inference(feature.inference)) : null, inference:undefined, locus_tag:undefined, Product:capital(feature.product), product:undefined, protein_id:undefined, RFAM: feature.accession != null ? '<a href=https://rfam.org/family/'+feature.accession+'>'+feature.accession+'</a>' : null, note:undefined, Note: feature.note != null ? removequotes(feature.note): null}"
+        "subfeatures": "jexl:{accession:undefined, name:italics(feature.name), type:capital(feature.type), Source:replaceuc(feature.source), source:undefined, phase:undefined, id:undefined, parent:undefined, COG_number: feature.db_xref != null ? '<a href=https://www.ncbi.nlm.nih.gov/research/cog/cog/'+removecog(feature.db_xref)+'>'+removecog(feature.db_xref)+'</a>' : null, db_xref:undefined, EC_number: feature.ec_number != null ? '<a href=https://enzyme.expasy.org/EC/'+feature.ec_number+'>'+feature.ec_number+'</a>' : null , ec_number:undefined, Gene:italics(feature.gene), gene:undefined, Inference:feature.inference != null ? capital(inference(feature.inference)) : null, inference:undefined, locus_tag:undefined, Product:capital(feature.product), product:undefined, protein_id:undefined, RFAM: feature.accession != null ? '<a href=https://rfam.org/family/'+feature.accession+'>'+feature.accession+'</a>' : null, note:undefined, Note: feature.note != null ? removequotes(feature.note): null}"
+      }
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "CI2136_sgRNA_sorted.gff",
+      "name": "sgRNAs",
+      "assemblyNames": [
+        "CI2136"
+      ],
+      "category": [
+        "CRISPRi"
+      ],
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/CI2136/CI2136_sgRNA_sorted.gff.gz"
+        },
+        "index": {
+          "location": {
+            "locationType": "UriLocation",
+            "uri": "data/CI2136/CI2136_sgRNA_sorted.gff.gz.tbi"
+          }
+        }
+      },
+      "textSearching": {
+        "indexingAttributes": [
+          "Name",
+          "ID",
+          "name"
+        ],
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "CI2136_sgRNA_sorted.gff-index",
+          "ixFilePath": {
+            "uri": "trix/CI2136_sgRNA_sorted.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/CI2136_sgRNA_sorted.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/CI2136_sgRNA_sorted.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "CI2136"
+          ]
+        }
+      },
+      "displays": [
+        {
+          "type": "LinearBasicDisplay",
+          "displayId": "CI2136_sgRNA_sorted.gff-LinearBasicDisplay",
+          "mouseover": "jexl:sgrnatarget(get(feature,'target_gene_name'))",
+          "renderer": {
+            "type": "SvgFeatureRenderer",
+            "color1": "rgb(102, 194, 165)"
+          }
+        },
+        {
+          "type": "LinearArcDisplay",
+          "displayId": "CI2136_sgRNA_sorted.gff-LinearArcDisplay"
+        }
+      ],
+      "formatDetails": {
+        "feature": "jexl:{Source:'V. de Bakker', source:undefined, id:undefined, phase:undefined, Target_locus_tag:feature.target_locus_tag, target_locus_tag:undefined, Target_gene_name: feature.target_gene_name != feature.target_locus_tag ? italics(feature.target_gene_name) : null, target_gene_name:undefined}"
       }
     },
     {
@@ -405,8 +546,7 @@
         "CI2136"
       ],
       "category": [
-        "Genome characteristics",
-        "Miscellaneous"
+        "Genome Characteristics"
       ],
       "adapter": {
         "type": "NucContentAdapter",
@@ -507,7 +647,75 @@
       ],
       "formatDetails": {
         "feature": "jexl:{name:italics(feature.name),type:capital(replaceuc(feature.type)), Source:capital(replaceuc(feature.source)), source:undefined, phase:undefined, id:undefined, Gene:italics(feature.gene), gene:undefined, Alias:italics(feature.alias), alias:undefined, Locus_tag:feature.locus_tag, locus_tag:undefined, Locus_tag_NCTC83254:feature.bsubtilis_locus_tag, bsubtilis_locus_tag:undefined, Subtiwiki_name:italics(feature.subtiwiki_name), subtiwiki_name:undefined, NCBI_name:italics(feature.ncbi_name), ncbi_name:undefined, UniProt:feature.uniprot_link != null ? '<a href=https://www.uniprot.org/uniprotkb/'+feature.uniprot_link+'>'+feature.uniprot_link+'</a>' : null, uniprot_link:undefined, SubtiWiki:feature.subtiwiki_link != null ? '<a href=https://subtiwiki.uni-goettingen.de/v4/gene?id='+feature.subtiwiki_link+'>'+'SubtiWiki'+'</a>' : null, subtiwiki_link:undefined, EC_number: feature.ec_number != null ? '<a href=https://enzyme.expasy.org/EC/'+feature.ec_number+'>'+feature.ec_number+'</a>' : null , ec_number:undefined}",
-        "subfeatures": "jexl:{accession:undefined, name:italics(feature.name), type:capital(feature.type), Source:replaceuc(feature.source), source:undefined, phase:undefined, id:undefined, parent:undefined, EC_number: feature.ec_number != null ? '<a href=https://enzyme.expasy.org/EC/'+feature.ec_number+'>'+feature.ec_number+'</a>' : null , ec_number:undefined, Gene:italics(feature.gene), gene:undefined, Inference:feature.inference != null ? capital(inference(feature.inference)) : null, inference:undefined, locus_tag:undefined, Product:capital(feature.product), product:undefined, protein_id:undefined, RFAM: feature.accession != null ? '<a href=https://rfam.org/family/'+feature.accession+'>'+feature.accession+'</a>' : null, note:undefined, Note: feature.note != null ? removequotes(feature.note): null}"
+        "subfeatures": "jexl:{accession:undefined, name:italics(feature.name), type:capital(feature.type), Source:replaceuc(feature.source), source:undefined, phase:undefined, id:undefined, parent:undefined, COG_number: feature.db_xref != null ? '<a href=https://www.ncbi.nlm.nih.gov/research/cog/cog/'+removecog(feature.db_xref)+'>'+removecog(feature.db_xref)+'</a>' : null, db_xref:undefined, EC_number: feature.ec_number != null ? '<a href=https://enzyme.expasy.org/EC/'+feature.ec_number+'>'+feature.ec_number+'</a>' : null , ec_number:undefined, Gene:italics(feature.gene), gene:undefined, Inference:feature.inference != null ? capital(inference(feature.inference)) : null, inference:undefined, locus_tag:undefined, Product:capital(feature.product), product:undefined, protein_id:undefined, RFAM: feature.accession != null ? '<a href=https://rfam.org/family/'+feature.accession+'>'+feature.accession+'</a>' : null, note:undefined, Note: feature.note != null ? removequotes(feature.note): null}"
+      }
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "NCTC83254_sgRNA_sorted.gff",
+      "name": "sgRNAs",
+      "assemblyNames": [
+        "NCTC83254"
+      ],
+      "category": [
+        "CRISPRi"
+      ],
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/NCTC83254/NCTC83254_sgRNA_sorted.gff.gz"
+        },
+        "index": {
+          "location": {
+            "locationType": "UriLocation",
+            "uri": "data/NCTC83254/NCTC83254_sgRNA_sorted.gff.gz.tbi"
+          }
+        }
+      },
+      "textSearching": {
+        "indexingAttributes": [
+          "Name",
+          "ID",
+          "name"
+        ],
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "NCTC83254_sgRNA_sorted.gff-index",
+          "ixFilePath": {
+            "uri": "trix/NCTC83254_sgRNA_sorted.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/NCTC83254_sgRNA_sorted.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/NCTC83254_sgRNA_sorted.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "NCTC83254"
+          ]
+        }
+      },
+      "displays": [
+        {
+          "type": "LinearBasicDisplay",
+          "displayId": "NCTC83254_sgRNA_sorted.gff-LinearBasicDisplay",
+          "mouseover": "jexl:sgrnatarget(get(feature,'target_gene_name'))",
+          "renderer": {
+            "type": "SvgFeatureRenderer",
+            "color1": "rgb(102, 194, 165)"
+          }
+        },
+        {
+          "type": "LinearArcDisplay",
+          "displayId": "NCTC83254_sgRNA_sorted.gff-LinearArcDisplay"
+        }
+      ],
+      "formatDetails": {
+        "feature": "jexl:{Source:'V. de Bakker', source:undefined, id:undefined, phase:undefined, Target_locus_tag:feature.target_locus_tag, target_locus_tag:undefined, Target_gene_name: feature.target_gene_name != feature.target_locus_tag ? italics(feature.target_gene_name) : null, target_gene_name:undefined}"
       }
     },
     {
@@ -518,8 +726,7 @@
         "NCTC83254"
       ],
       "category": [
-        "Genome characteristics",
-        "Miscellaneous"
+        "Genome Characteristics"
       ],
       "adapter": {
         "type": "NucContentAdapter",
@@ -620,7 +827,75 @@
       ],
       "formatDetails": {
         "feature": "jexl:{name:italics(feature.name),type:capital(replaceuc(feature.type)), Source:capital(replaceuc(feature.source)), source:undefined, phase:undefined, id:undefined, Gene:italics(feature.gene), gene:undefined, Alias:italics(feature.alias), alias:undefined, Locus_tag:feature.locus_tag, locus_tag:undefined, Locus_tag_USA300:feature.bsubtilis_locus_tag, bsubtilis_locus_tag:undefined, Subtiwiki_name:italics(feature.subtiwiki_name), subtiwiki_name:undefined, NCBI_name:italics(feature.ncbi_name), ncbi_name:undefined, UniProt:feature.uniprot_link != null ? '<a href=https://www.uniprot.org/uniprotkb/'+feature.uniprot_link+'>'+feature.uniprot_link+'</a>' : null, uniprot_link:undefined, SubtiWiki:feature.subtiwiki_link != null ? '<a href=https://subtiwiki.uni-goettingen.de/v4/gene?id='+feature.subtiwiki_link+'>'+'SubtiWiki'+'</a>' : null, subtiwiki_link:undefined, EC_number: feature.ec_number != null ? '<a href=https://enzyme.expasy.org/EC/'+feature.ec_number+'>'+feature.ec_number+'</a>' : null , ec_number:undefined}",
-        "subfeatures": "jexl:{accession:undefined, name:italics(feature.name), type:capital(feature.type), Source:replaceuc(feature.source), source:undefined, phase:undefined, id:undefined, parent:undefined, EC_number: feature.ec_number != null ? '<a href=https://enzyme.expasy.org/EC/'+feature.ec_number+'>'+feature.ec_number+'</a>' : null , ec_number:undefined, Gene:italics(feature.gene), gene:undefined, Inference:feature.inference != null ? capital(inference(feature.inference)) : null, inference:undefined, locus_tag:undefined, Product:capital(feature.product), product:undefined, protein_id:undefined, RFAM: feature.accession != null ? '<a href=https://rfam.org/family/'+feature.accession+'>'+feature.accession+'</a>' : null, note:undefined, Note: feature.note != null ? removequotes(feature.note): null}"
+        "subfeatures": "jexl:{accession:undefined, name:italics(feature.name), type:capital(feature.type), Source:replaceuc(feature.source), source:undefined, phase:undefined, id:undefined, parent:undefined,  COG_number: feature.db_xref != null ? '<a href=https://www.ncbi.nlm.nih.gov/research/cog/cog/'+removecog(feature.db_xref)+'>'+removecog(feature.db_xref)+'</a>' : null, db_xref:undefined, EC_number: feature.ec_number != null ? '<a href=https://enzyme.expasy.org/EC/'+feature.ec_number+'>'+feature.ec_number+'</a>' : null , ec_number:undefined, Gene:italics(feature.gene), gene:undefined, Inference:feature.inference != null ? capital(inference(feature.inference)) : null, inference:undefined, locus_tag:undefined, Product:capital(feature.product), product:undefined, protein_id:undefined, RFAM: feature.accession != null ? '<a href=https://rfam.org/family/'+feature.accession+'>'+feature.accession+'</a>' : null, note:undefined, Note: feature.note != null ? removequotes(feature.note): null}"
+      }
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "USA300_sgRNA_sorted.gff",
+      "name": "sgRNAs",
+      "assemblyNames": [
+        "USA300"
+      ],
+      "category": [
+        "CRISPRi"
+      ],
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/USA300/USA300_sgRNA_sorted.gff.gz"
+        },
+        "index": {
+          "location": {
+            "locationType": "UriLocation",
+            "uri": "data/USA300/USA300_sgRNA_sorted.gff.gz.tbi"
+          }
+        }
+      },
+      "textSearching": {
+        "indexingAttributes": [
+          "Name",
+          "ID",
+          "name"
+        ],
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "USA300_sgRNA_sorted.gff-index",
+          "ixFilePath": {
+            "uri": "trix/USA300_sgRNA_sorted.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/USA300_sgRNA_sorted.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/USA300_sgRNA_sorted.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "USA300"
+          ]
+        }
+      },
+      "displays": [
+        {
+          "type": "LinearBasicDisplay",
+          "displayId": "USA300_sgRNA_sorted.gff-LinearBasicDisplay",
+          "mouseover": "jexl:sgrnatarget(get(feature,'target_gene_name'))",
+          "renderer": {
+            "type": "SvgFeatureRenderer",
+            "color1": "rgb(102, 194, 165)"
+          }
+        },
+        {
+          "type": "LinearArcDisplay",
+          "displayId": "USA300_sgRNA_sorted.gff-LinearArcDisplay"
+        }
+      ],
+      "formatDetails": {
+        "feature": "jexl:{Source:'V. de Bakker', source:undefined, id:undefined, phase:undefined, Target_locus_tag:feature.target_locus_tag, target_locus_tag:undefined, Target_gene_name: feature.target_gene_name != feature.target_locus_tag ? italics(feature.target_gene_name) : null, target_gene_name:undefined}"
       }
     },
     {
@@ -631,8 +906,7 @@
         "USA300"
       ],
       "category": [
-        "Genome characteristics",
-        "Miscellaneous"
+        "Genome Characteristics"
       ],
       "adapter": {
         "type": "NucContentAdapter",
@@ -752,7 +1026,7 @@
     },
     "minimized": false,
     "id": "HGyGmhbSgPclwODgMx7Yz",
-    "name": "AureuBrowse (v0.2) 05/06/2024, 10:25:49",
+    "name": "AureuBrowse (v0.3) 05/06/2024, 10:25:49",
     "margin": 0,
     "views": [
       {
