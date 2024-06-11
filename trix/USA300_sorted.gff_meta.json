@@ -1,12 +1,15 @@
 {
-  "dateCreated": "2024-06-09T18:46:53.295Z",
+  "dateCreated": "2024-06-11T11:50:35.204Z",
   "tracks": [
     {
       "trackId": "USA300_sorted.gff",
       "attributesIndexed": [
         "name",
         "gene",
-        "locus_tag"
+        "locus_tag",
+        "locus_tag_pan",
+        "locus_tag_new",
+        "locus_tag_old"
       ],
       "excludedTypes": [
         "CDS",

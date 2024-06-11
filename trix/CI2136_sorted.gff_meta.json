@@ -1,12 +1,13 @@
 {
-  "dateCreated": "2024-06-09T18:46:52.193Z",
+  "dateCreated": "2024-06-11T11:50:33.842Z",
   "tracks": [
     {
       "trackId": "CI2136_sorted.gff",
       "attributesIndexed": [
         "name",
         "gene",
-        "locus_tag"
+        "locus_tag",
+        "locus_tag_pan"
       ],
       "excludedTypes": [
         "CDS",

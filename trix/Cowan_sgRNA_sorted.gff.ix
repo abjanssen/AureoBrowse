@@ -1,15 +1,15 @@
-nihhekbb_00001_gr65f ["Cowan_1%3A51..70"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00001_gR65f"],1 ["Cowan_51%3A51..70"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00001_gR65f"],2 ["Cowan_76%3A8..27"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00001_gR65f"],3
+nihhekbb_00001_gr65f ["Cowan_1%3A51..70"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2765"|"NIHHEKBB_00001_gR65f"],1 ["Cowan_51%3A51..70"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2853"|"NIHHEKBB_00001_gR65f"],2 ["Cowan_76%3A8..27"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2792"|"NIHHEKBB_00001_gR65f"],3
 nihhekbb_00002_gr178f ["Cowan_1%3A266..285"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0001"|"NIHHEKBB_00002_gR178f"],1
 nihhekbb_00003_gr245r ["Cowan_1%3A752..771"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0002"|"NIHHEKBB_00003_gR245r"],1
 nihhekbb_00004_gr64r ["Cowan_1%3A1299..1318"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0003"|"NIHHEKBB_00004_gR64r"],1
 nihhekbb_00005_gr60r ["Cowan_1%3A2223..2242"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0004"|"NIHHEKBB_00005_gR60r"],1
-nihhekbb_00007_gr76r ["Cowan_1%3A2638..2657"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00007_gR76r"],1 ["Cowan_13%3A74481..74500"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00007_gR76r"],2 ["Cowan_20%3A48151..48170"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00007_gR76r"],3
+nihhekbb_00007_gr76r ["Cowan_1%3A2638..2657"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2766"|"NIHHEKBB_00007_gR76r"],1 ["Cowan_13%3A74481..74500"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2779"|"NIHHEKBB_00007_gR76r"],2 ["Cowan_20%3A48151..48170"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2793"|"NIHHEKBB_00007_gR76r"],3
 nihhekbb_00008_gr38r ["Cowan_1%3A2840..2859"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0005"|"NIHHEKBB_00008_gR38r"],1
 nihhekbb_00009_gr558f ["Cowan_1%3A3469..3488"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0006"|"NIHHEKBB_00009_gR558f"],1
 nihhekbb_00010_gr76r ["Cowan_1%3A3740..3759"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0007"|"NIHHEKBB_00010_gR76r"],1
 nihhekbb_00011_gr1908f ["Cowan_1%3A6807..6826"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0008"|"NIHHEKBB_00011_gR1908f"],1
 nihhekbb_00012_gr585f ["Cowan_1%3A7513..7532"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0009"|"NIHHEKBB_00012_gR585f"],1
-nihhekbb_00013_gr1738f ["Cowan_1%3A9843..9862"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00013_gR1738f"],1
+nihhekbb_00013_gr1738f ["Cowan_1%3A9843..9862"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0010"|"NIHHEKBB_00013_gR1738f"],1
 nihhekbb_00014_gr634f ["Cowan_1%3A10471..10490"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0011"|"NIHHEKBB_00014_gR634f"],1
 nihhekbb_00015_gr591f ["Cowan_1%3A11286..11305"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0012"|"NIHHEKBB_00015_gR591f"],1
 nihhekbb_00016_gr439f ["Cowan_1%3A11864..11883"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0013"|"NIHHEKBB_00016_gR439f"],1
@@ -41,7 +41,7 @@ nihhekbb_00042_gr964f ["Cowan_1%3A36942..36961"|"Cowan_sgRNA_sorted.gff"|"sgRNA.
 nihhekbb_00043_gr1285f ["Cowan_1%3A38271..38290"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0039"|"NIHHEKBB_00043_gR1285f"],1
 nihhekbb_00044_gr1664f ["Cowan_1%3A40222..40241"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0040"|"NIHHEKBB_00044_gR1664f"],1
 nihhekbb_00045_gr285f ["Cowan_1%3A40538..40557"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0041"|"NIHHEKBB_00045_gR285f"],1
-nihhekbb_00046_gr864f ["Cowan_1%3A42000..42019"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00046_gR864f"],1
+nihhekbb_00046_gr864f ["Cowan_1%3A42000..42019"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0042"|"NIHHEKBB_00046_gR864f"],1
 nihhekbb_00047_gr118f ["Cowan_1%3A42113..42132"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0043"|"NIHHEKBB_00047_gR118f"],1
 nihhekbb_00048_gr1270f ["Cowan_1%3A43488..43507"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0044"|"NIHHEKBB_00048_gR1270f"],1
 nihhekbb_00049_gr368f ["Cowan_1%3A43940..43959"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0045"|"NIHHEKBB_00049_gR368f"],1
@@ -121,7 +121,7 @@ nihhekbb_00122_gr495f ["Cowan_1%3A108880..108899"|"Cowan_sgRNA_sorted.gff"|"sgRN
 nihhekbb_00123_gr662f ["Cowan_1%3A109594..109613"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0119"|"NIHHEKBB_00123_gR662f"],1
 nihhekbb_00124_gr191r ["Cowan_1%3A110136..110155"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0120"|"NIHHEKBB_00124_gR191r"],1
 nihhekbb_00126_gr374f ["Cowan_1%3A111026..111045"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0121"|"NIHHEKBB_00126_gR374f"],1
-nihhekbb_00127_gr102f ["Cowan_1%3A111313..111332"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00127_gR102f"],1 ["Cowan_12%3A62121..62140"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00127_gR102f"],2 ["Cowan_14%3A3531..3550"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00127_gR102f"],3 ["Cowan_21%3A39237..39256"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00127_gR102f"],4 ["Cowan_4%3A45752..45771"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00127_gR102f"],5 ["Cowan_9%3A50429..50448"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00127_gR102f"],6
+nihhekbb_00127_gr102f ["Cowan_1%3A111313..111332"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2823"|"NIHHEKBB_00127_gR102f"],1 ["Cowan_12%3A62121..62140"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2838"|"NIHHEKBB_00127_gR102f"],2 ["Cowan_14%3A3531..3550"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2843"|"NIHHEKBB_00127_gR102f"],3 ["Cowan_21%3A39237..39256"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2848"|"NIHHEKBB_00127_gR102f"],4 ["Cowan_4%3A45752..45771"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2828"|"NIHHEKBB_00127_gR102f"],5 ["Cowan_9%3A50429..50448"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2833"|"NIHHEKBB_00127_gR102f"],6
 nihhekbb_00128_gr1059f ["Cowan_1%3A112762..112781"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0122"|"NIHHEKBB_00128_gR1059f"],1
 nihhekbb_00129_gr1171f ["Cowan_1%3A114384..114403"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0123"|"NIHHEKBB_00129_gR1171f"],1
 nihhekbb_00130_gr698f ["Cowan_1%3A115155..115174"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0124"|"NIHHEKBB_00130_gR698f"],1
@@ -468,7 +468,7 @@ nihhekbb_00476_gr43r ["Cowan_2%3A116512..116531"|"Cowan_sgRNA_sorted.gff"|"sgRNA
 nihhekbb_00477_gr315r ["Cowan_2%3A117443..117462"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0465"|"NIHHEKBB_00477_gR315r"],1
 nihhekbb_00478_gr146r ["Cowan_2%3A118133..118152"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0466"|"NIHHEKBB_00478_gR146r"],1
 nihhekbb_00479_gr883f ["Cowan_2%3A119902..119921"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0467"|"NIHHEKBB_00479_gR883f"],1
-nihhekbb_00480_gr261f ["Cowan_15%3A52882..52901"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00480_gR261f"],1 ["Cowan_2%3A120600..120619"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00480_gR261f"],2 ["Cowan_20%3A31505..31524"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00480_gR261f"],3 ["Cowan_3%3A194724..194743"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00480_gR261f"],4 ["Cowan_3%3A65016..65035"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00480_gR261f"],5 ["Cowan_7%3A47026..47045"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00480_gR261f"],6
+nihhekbb_00480_gr261f ["Cowan_15%3A52882..52901"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2844"|"NIHHEKBB_00480_gR261f"],1 ["Cowan_2%3A120600..120619"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2824"|"NIHHEKBB_00480_gR261f"],2 ["Cowan_20%3A31505..31524"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2849"|"NIHHEKBB_00480_gR261f"],3 ["Cowan_3%3A194724..194743"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2829"|"NIHHEKBB_00480_gR261f"],4 ["Cowan_3%3A65016..65035"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2834"|"NIHHEKBB_00480_gR261f"],5 ["Cowan_7%3A47026..47045"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2839"|"NIHHEKBB_00480_gR261f"],6
 nihhekbb_00481_gr492f ["Cowan_2%3A121244..121263"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0468"|"NIHHEKBB_00481_gR492f"],1
 nihhekbb_00483_gr154f ["Cowan_2%3A122231..122250"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0469"|"NIHHEKBB_00483_gR154f"],1
 nihhekbb_00484_gr2898f ["Cowan_2%3A125448..125467"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0470"|"NIHHEKBB_00484_gR2898f"],1
@@ -518,8 +518,8 @@ nihhekbb_00527_gr16r ["Cowan_2%3A165934..165953"|"Cowan_sgRNA_sorted.gff"|"sgRNA
 nihhekbb_00528_gr1922f ["Cowan_2%3A168711..168730"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0514"|"NIHHEKBB_00528_gR1922f"],1
 nihhekbb_00529_gr495f ["Cowan_2%3A169234..169253"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0515"|"NIHHEKBB_00529_gR495f"],1
 nihhekbb_00530_gr20r ["Cowan_2%3A169540..169559"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0516"|"NIHHEKBB_00530_gR20r"],1
-nihhekbb_00531_gr203f ["Cowan_2%3A170355..170374"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00531_gR203f"],1 ["Cowan_26%3A1040..1059"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00531_gR203f"],2
-nihhekbb_00532_gr23r ["Cowan_2%3A170455..170474"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00532_gR23r"],1 ["Cowan_79%3A129..148"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00532_gR23r"],2
+nihhekbb_00531_gr203f ["Cowan_2%3A170355..170374"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2719"|"NIHHEKBB_00531_gR203f"],1 ["Cowan_26%3A1040..1059"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2742"|"NIHHEKBB_00531_gR203f"],2
+nihhekbb_00532_gr23r ["Cowan_2%3A170455..170474"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2720"|"NIHHEKBB_00532_gR23r"],1 ["Cowan_79%3A129..148"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2743"|"NIHHEKBB_00532_gR23r"],2
 nihhekbb_00533_gr1170f ["Cowan_2%3A171986..172005"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0517"|"NIHHEKBB_00533_gR1170f"],1
 nihhekbb_00534_gr1366f ["Cowan_2%3A173658..173677"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0518"|"NIHHEKBB_00534_gR1366f"],1
 nihhekbb_00535_gr300f ["Cowan_2%3A174214..174233"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0519"|"NIHHEKBB_00535_gR300f"],1
@@ -692,7 +692,7 @@ nihhekbb_00702_gr209f ["Cowan_3%3A28891..28910"|"Cowan_sgRNA_sorted.gff"|"sgRNA.
 nihhekbb_00703_gr508f ["Cowan_3%3A30148..30167"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0686"|"NIHHEKBB_00703_gR508f"],1
 nihhekbb_00704_gr565f ["Cowan_3%3A31235..31254"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0687"|"NIHHEKBB_00704_gR565f"],1
 nihhekbb_00705_gr65r ["Cowan_3%3A31562..31581"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0688"|"NIHHEKBB_00705_gR65r"],1
-nihhekbb_00706_gr47r ["Cowan_1%3A96652..96671"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00706_gR47r"],1 ["Cowan_3%3A32110..32129"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00706_gR47r"],2 ["Cowan_4%3A100273..100292"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00706_gR47r"],3 ["Cowan_7%3A33873..33892"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00706_gR47r"],4 ["Cowan_7%3A47161..47180"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00706_gR47r"],5
+nihhekbb_00706_gr47r ["Cowan_1%3A96652..96671"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2818"|"NIHHEKBB_00706_gR47r"],1 ["Cowan_3%3A32110..32129"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2819"|"NIHHEKBB_00706_gR47r"],2 ["Cowan_4%3A100273..100292"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2820"|"NIHHEKBB_00706_gR47r"],3 ["Cowan_7%3A33873..33892"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2821"|"NIHHEKBB_00706_gR47r"],4 ["Cowan_7%3A47161..47180"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2822"|"NIHHEKBB_00706_gR47r"],5
 nihhekbb_00708_gr860f ["Cowan_3%3A33634..33653"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0689"|"NIHHEKBB_00708_gR860f"],1
 nihhekbb_00709_gr630f ["Cowan_3%3A34317..34336"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0690"|"NIHHEKBB_00709_gR630f"],1
 nihhekbb_00710_gr966f ["Cowan_3%3A35336..35355"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0691"|"NIHHEKBB_00710_gR966f"],1
@@ -814,7 +814,7 @@ nihhekbb_00827_gr1278f ["Cowan_3%3A167443..167462"|"Cowan_sgRNA_sorted.gff"|"sgR
 nihhekbb_00828_gr2202f ["Cowan_3%3A169893..169912"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0807"|"NIHHEKBB_00828_gR2202f"],1
 nihhekbb_00829_gr846f ["Cowan_3%3A170917..170936"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0808"|"NIHHEKBB_00829_gR846f"],1
 nihhekbb_00830_gr180f ["Cowan_3%3A171188..171207"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0809"|"NIHHEKBB_00830_gR180f"],1
-nihhekbb_00831_gr1233f ["Cowan_3%3A172567..172586"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00831_gR1233f"],1
+nihhekbb_00831_gr1233f ["Cowan_3%3A172567..172586"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0810"|"NIHHEKBB_00831_gR1233f"],1
 nihhekbb_00832_gr1533f ["Cowan_3%3A174098..174117"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0811"|"NIHHEKBB_00832_gR1533f"],1
 nihhekbb_00833_gr1106f ["Cowan_3%3A175235..175254"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0812"|"NIHHEKBB_00833_gR1106f"],1
 nihhekbb_00834_gr6563f ["Cowan_3%3A182032..182051"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0813"|"NIHHEKBB_00834_gR6563f"],1
@@ -833,7 +833,7 @@ nihhekbb_00846_gr123f ["Cowan_3%3A190125..190144"|"Cowan_sgRNA_sorted.gff"|"sgRN
 nihhekbb_00847_gr524f ["Cowan_3%3A190916..190935"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0826"|"NIHHEKBB_00847_gR524f"],1
 nihhekbb_00848_gr41f ["Cowan_3%3A190991..191010"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0827"|"NIHHEKBB_00848_gR41f"],1
 nihhekbb_00849_gr37r ["Cowan_3%3A191166..191185"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0828"|"NIHHEKBB_00849_gR37r"],1
-nihhekbb_00850_gr16r ["Cowan_3%3A192347..192366"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00850_gR16r"],1
+nihhekbb_00850_gr16r ["Cowan_3%3A192347..192366"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0829"|"NIHHEKBB_00850_gR16r"],1
 nihhekbb_00851_gr58r ["Cowan_3%3A192691..192710"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0830"|"NIHHEKBB_00851_gR58r"],1
 nihhekbb_00852_gr44r ["Cowan_3%3A193536..193555"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0831"|"NIHHEKBB_00852_gR44r"],1
 nihhekbb_00853_gr14r ["Cowan_3%3A194674..194693"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0832"|"NIHHEKBB_00853_gR14r"],1
@@ -859,7 +859,7 @@ nihhekbb_00872_gr54r ["Cowan_3%3A213422..213441"|"Cowan_sgRNA_sorted.gff"|"sgRNA
 nihhekbb_00873_gr34r ["Cowan_3%3A214511..214530"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0852"|"NIHHEKBB_00873_gR34r"],1
 nihhekbb_00874_gr112r ["Cowan_3%3A215330..215349"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0853"|"NIHHEKBB_00874_gR112r"],1
 nihhekbb_00875_gr974f ["Cowan_3%3A216804..216823"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0854"|"NIHHEKBB_00875_gR974f"],1
-nihhekbb_00876_gr22r ["Cowan_11%3A82760..82779"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00876_gR22r"],1 ["Cowan_15%3A19..38"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00876_gR22r"],2 ["Cowan_2%3A170622..170641"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00876_gR22r"],3 ["Cowan_4%3A19..38"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00876_gR22r"],4 ["Cowan_64%3A127..146"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00876_gR22r"],5 ["Cowan_8%3A110367..110386"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_00876_gR22r"],6
+nihhekbb_00876_gr22r ["Cowan_11%3A82760..82779"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2840"|"NIHHEKBB_00876_gR22r"],1 ["Cowan_15%3A19..38"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2845"|"NIHHEKBB_00876_gR22r"],2 ["Cowan_2%3A170622..170641"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2825"|"NIHHEKBB_00876_gR22r"],3 ["Cowan_4%3A19..38"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2830"|"NIHHEKBB_00876_gR22r"],4 ["Cowan_64%3A127..146"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2850"|"NIHHEKBB_00876_gR22r"],5 ["Cowan_8%3A110367..110386"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2835"|"NIHHEKBB_00876_gR22r"],6
 nihhekbb_00877_gr108f ["Cowan_4%3A248..267"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0855"|"NIHHEKBB_00877_gR108f"],1
 nihhekbb_00878_gr70r ["Cowan_4%3A1221..1240"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0856"|"NIHHEKBB_00878_gR70r"],1
 nihhekbb_00880_gr32r ["Cowan_4%3A3439..3458"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0857"|"NIHHEKBB_00880_gR32r"],1
@@ -993,7 +993,7 @@ nihhekbb_01011_gr52f ["Cowan_4%3A136639..136658"|"Cowan_sgRNA_sorted.gff"|"sgRNA
 nihhekbb_01012_gr40r ["Cowan_4%3A137015..137034"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0985"|"NIHHEKBB_01012_gR40r"],1
 nihhekbb_01013_gr161f ["Cowan_4%3A138190..138209"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0986"|"NIHHEKBB_01013_gR161f"],1
 nihhekbb_01014_gr58r ["Cowan_4%3A138528..138547"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0987"|"NIHHEKBB_01014_gR58r"],1
-nihhekbb_01015_gr8r ["Cowan_19%3A16173..16192"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_01015_gR8r"],1 ["Cowan_24%3A92..111"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_01015_gR8r"],2 ["Cowan_4%3A139189..139208"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_01015_gR8r"],3
+nihhekbb_01015_gr8r ["Cowan_19%3A16173..16192"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2780"|"NIHHEKBB_01015_gR8r"],1 ["Cowan_24%3A92..111"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2794"|"NIHHEKBB_01015_gR8r"],2 ["Cowan_4%3A139189..139208"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2767"|"NIHHEKBB_01015_gR8r"],3
 nihhekbb_01016_gr38r ["Cowan_4%3A139295..139314"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0988"|"NIHHEKBB_01016_gR38r"],1
 nihhekbb_01017_gr1393f ["Cowan_4%3A140908..140927"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0989"|"NIHHEKBB_01017_gR1393f"],1
 nihhekbb_01018_gr1317f ["Cowan_4%3A142482..142501"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0990"|"NIHHEKBB_01018_gR1317f"],1
@@ -1137,7 +1137,7 @@ nihhekbb_01158_gr355f ["Cowan_5%3A123694..123713"|"Cowan_sgRNA_sorted.gff"|"sgRN
 nihhekbb_01159_gr131f ["Cowan_5%3A124308..124327"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1128"|"NIHHEKBB_01159_gR131f"],1
 nihhekbb_01160_gr552f ["Cowan_5%3A124971..124990"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1129"|"NIHHEKBB_01160_gR552f"],1
 nihhekbb_01161_gr675f ["Cowan_5%3A125705..125724"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1130"|"NIHHEKBB_01161_gR675f"],1
-nihhekbb_01162_gr3165f ["Cowan_5%3A128997..129016"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_01162_gR3165f"],1
+nihhekbb_01162_gr3165f ["Cowan_5%3A128997..129016"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1131"|"NIHHEKBB_01162_gR3165f"],1
 nihhekbb_01163_gr1042f ["Cowan_5%3A130040..130059"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1132"|"NIHHEKBB_01163_gR1042f"],1
 nihhekbb_01164_gr1164f ["Cowan_5%3A131264..131283"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1133"|"NIHHEKBB_01164_gR1164f"],1
 nihhekbb_01165_gr820f ["Cowan_5%3A132212..132231"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1134"|"NIHHEKBB_01165_gR820f"],1
@@ -1253,7 +1253,7 @@ nihhekbb_01275_gr64r ["Cowan_6%3A131147..131166"|"Cowan_sgRNA_sorted.gff"|"sgRNA
 nihhekbb_01276_gr166r ["Cowan_6%3A132820..132839"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1244"|"NIHHEKBB_01276_gR166r"],1
 nihhekbb_01277_gr37r ["Cowan_6%3A133400..133419"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1245"|"NIHHEKBB_01277_gR37r"],1
 nihhekbb_01278_gr229r ["Cowan_6%3A134639..134658"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1246"|"NIHHEKBB_01278_gR229r"],1
-nihhekbb_01279_gr207f ["Cowan_2%3A170579..170598"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_01279_gR207f"],1 ["Cowan_26%3A1205..1224"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_01279_gR207f"],2 ["Cowan_3%3A28768..28787"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_01279_gR207f"],3 ["Cowan_6%3A136502..136521"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_01279_gR207f"],4 ["Cowan_64%3A226..245"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_01279_gR207f"],5 ["Cowan_79%3A5..24"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_01279_gR207f"],6
+nihhekbb_01279_gr207f ["Cowan_2%3A170579..170598"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2826"|"NIHHEKBB_01279_gR207f"],1 ["Cowan_26%3A1205..1224"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2841"|"NIHHEKBB_01279_gR207f"],2 ["Cowan_3%3A28768..28787"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2831"|"NIHHEKBB_01279_gR207f"],3 ["Cowan_6%3A136502..136521"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2836"|"NIHHEKBB_01279_gR207f"],4 ["Cowan_64%3A226..245"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2846"|"NIHHEKBB_01279_gR207f"],5 ["Cowan_79%3A5..24"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2851"|"NIHHEKBB_01279_gR207f"],6
 nihhekbb_01280_gr874f ["Cowan_7%3A1314..1333"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1247"|"NIHHEKBB_01280_gR874f"],1
 nihhekbb_01281_gr427f ["Cowan_7%3A1813..1832"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1248"|"NIHHEKBB_01281_gR427f"],1
 nihhekbb_01282_gr423f ["Cowan_7%3A2425..2444"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1249"|"NIHHEKBB_01282_gR423f"],1
@@ -1347,7 +1347,7 @@ nihhekbb_01373_gr19r ["Cowan_7%3A97165..97184"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1
 nihhekbb_01374_gr128r ["Cowan_7%3A98086..98105"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1337"|"NIHHEKBB_01374_gR128r"],1
 nihhekbb_01375_gr159r ["Cowan_7%3A98981..99000"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1338"|"NIHHEKBB_01375_gR159r"],1
 nihhekbb_01376_gr121r ["Cowan_7%3A99725..99744"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1339"|"NIHHEKBB_01376_gR121r"],1
-nihhekbb_01377_gr11r ["Cowan_7%3A100063..100082"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_01377_gR11r"],1
+nihhekbb_01377_gr11r ["Cowan_7%3A100063..100082"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1340"|"NIHHEKBB_01377_gR11r"],1
 nihhekbb_01378_gr111r ["Cowan_7%3A100849..100868"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1341"|"NIHHEKBB_01378_gR111r"],1
 nihhekbb_01379_gr957f ["Cowan_7%3A102809..102828"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1342"|"NIHHEKBB_01379_gR957f"],1
 nihhekbb_01380_gr799f ["Cowan_7%3A103766..103785"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1343"|"NIHHEKBB_01380_gR799f"],1
@@ -1472,7 +1472,7 @@ nihhekbb_01498_gr47r ["Cowan_8%3A82498..82517"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1
 nihhekbb_01499_gr95r ["Cowan_8%3A83547..83566"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1462"|"NIHHEKBB_01499_gR95r"],1
 nihhekbb_01500_gr79r ["Cowan_8%3A84781..84800"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1463"|"NIHHEKBB_01500_gR79r"],1
 nihhekbb_01501_gr111r ["Cowan_8%3A85823..85842"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1464"|"NIHHEKBB_01501_gR111r"],1
-nihhekbb_01502_gr10r ["Cowan_8%3A86299..86318"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_01502_gR10r"],1
+nihhekbb_01502_gr10r ["Cowan_8%3A86299..86318"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1465"|"NIHHEKBB_01502_gR10r"],1
 nihhekbb_01503_gr71r ["Cowan_8%3A86838..86857"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1466"|"NIHHEKBB_01503_gR71r"],1
 nihhekbb_01504_gr44r ["Cowan_8%3A87764..87783"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1467"|"NIHHEKBB_01504_gR44r"],1
 nihhekbb_01505_gr99r ["Cowan_8%3A89037..89056"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1468"|"NIHHEKBB_01505_gR99r"],1
@@ -1541,8 +1541,8 @@ nihhekbb_01572_gr560f ["Cowan_9%3A46186..46205"|"Cowan_sgRNA_sorted.gff"|"sgRNA.
 nihhekbb_01573_gr54r ["Cowan_9%3A46807..46826"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1531"|"NIHHEKBB_01573_gR54r"],1
 nihhekbb_01574_gr73r ["Cowan_9%3A47220..47239"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1532"|"NIHHEKBB_01574_gR73r"],1
 nihhekbb_01575_gr143r ["Cowan_9%3A47867..47886"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1533"|"NIHHEKBB_01575_gR143r"],1
-nihhekbb_01576_gr43r ["Cowan_9%3A48174..48193"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_01576_gR43r"],1
-nihhekbb_01577_gr91r ["Cowan_9%3A48260..48279"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_01577_gR91r"],1
+nihhekbb_01576_gr43r ["Cowan_9%3A48174..48193"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1534"|"NIHHEKBB_01576_gR43r"],1
+nihhekbb_01577_gr91r ["Cowan_9%3A48260..48279"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1535"|"NIHHEKBB_01577_gR91r"],1
 nihhekbb_01578_gr31r ["Cowan_9%3A48750..48769"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1536"|"NIHHEKBB_01578_gR31r"],1
 nihhekbb_01579_gr190r ["Cowan_9%3A50138..50157"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1537"|"NIHHEKBB_01579_gR190r"],1
 nihhekbb_01581_gr1317f ["Cowan_9%3A51929..51948"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1538"|"NIHHEKBB_01581_gR1317f"],1
@@ -1727,7 +1727,7 @@ nihhekbb_01761_gr27r ["Cowan_11%3A60956..60975"|"Cowan_sgRNA_sorted.gff"|"sgRNA.
 nihhekbb_01762_gr25r ["Cowan_11%3A61693..61712"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1717"|"NIHHEKBB_01762_gR25r"],1
 nihhekbb_01763_gr67r ["Cowan_11%3A63170..63189"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1718"|"NIHHEKBB_01763_gR67r"],1
 nihhekbb_01764_gr109r ["Cowan_11%3A64511..64530"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1719"|"NIHHEKBB_01764_gR109r"],1
-nihhekbb_01765_gr202f ["Cowan_1%3A96790..96809"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_01765_gR202f"],1 ["Cowan_10%3A47044..47063"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_01765_gR202f"],2 ["Cowan_11%3A65870..65889"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_01765_gR202f"],3
+nihhekbb_01765_gr202f ["Cowan_1%3A96790..96809"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2768"|"NIHHEKBB_01765_gR202f"],1 ["Cowan_10%3A47044..47063"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2781"|"NIHHEKBB_01765_gR202f"],2 ["Cowan_11%3A65870..65889"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2795"|"NIHHEKBB_01765_gR202f"],3
 nihhekbb_01766_gr849f ["Cowan_11%3A66877..66896"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1720"|"NIHHEKBB_01766_gR849f"],1
 nihhekbb_01767_gr1335f ["Cowan_11%3A68534..68553"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1721"|"NIHHEKBB_01767_gR1335f"],1
 nihhekbb_01768_gr1148f ["Cowan_11%3A69716..69735"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1722"|"NIHHEKBB_01768_gR1148f"],1
@@ -1747,7 +1747,7 @@ nihhekbb_01782_gr35r ["Cowan_12%3A5000..5019"|"Cowan_sgRNA_sorted.gff"|"sgRNA.17
 nihhekbb_01783_gr73r ["Cowan_12%3A6073..6092"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1736"|"NIHHEKBB_01783_gR73r"],1
 nihhekbb_01784_gr97r ["Cowan_12%3A6430..6449"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1737"|"NIHHEKBB_01784_gR97r"],1
 nihhekbb_01785_gr235r ["Cowan_12%3A7358..7377"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1738"|"NIHHEKBB_01785_gR235r"],1
-nihhekbb_01786_gr22r ["Cowan_12%3A8067..8086"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_01786_gR22r"],1
+nihhekbb_01786_gr22r ["Cowan_12%3A8067..8086"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1739"|"NIHHEKBB_01786_gR22r"],1
 nihhekbb_01787_gr29r ["Cowan_12%3A9412..9431"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1740"|"NIHHEKBB_01787_gR29r"],1
 nihhekbb_01788_gr1330f ["Cowan_12%3A11819..11838"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1741"|"NIHHEKBB_01788_gR1330f"],1
 nihhekbb_01789_gr256f ["Cowan_12%3A12106..12125"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1742"|"NIHHEKBB_01789_gR256f"],1
@@ -1777,7 +1777,7 @@ nihhekbb_01812_gr1110f ["Cowan_12%3A33360..33379"|"Cowan_sgRNA_sorted.gff"|"sgRN
 nihhekbb_01813_gr79r ["Cowan_12%3A34015..34034"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1766"|"NIHHEKBB_01813_gR79r"],1
 nihhekbb_01814_gr735f ["Cowan_12%3A35922..35941"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1767"|"NIHHEKBB_01814_gR735f"],1
 nihhekbb_01815_gr2156f ["Cowan_12%3A38138..38157"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1768"|"NIHHEKBB_01815_gR2156f"],1
-nihhekbb_01816_gr1825f ["Cowan_12%3A40032..40051"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_01816_gR1825f"],1
+nihhekbb_01816_gr1825f ["Cowan_12%3A40032..40051"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1769"|"NIHHEKBB_01816_gR1825f"],1
 nihhekbb_01817_gr1087f ["Cowan_12%3A41104..41123"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1770"|"NIHHEKBB_01817_gR1087f"],1
 nihhekbb_01818_gr1079f ["Cowan_12%3A42253..42272"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1771"|"NIHHEKBB_01818_gR1079f"],1
 nihhekbb_01819_gr333f ["Cowan_12%3A42676..42695"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1772"|"NIHHEKBB_01819_gR333f"],1
@@ -1803,7 +1803,7 @@ nihhekbb_01838_gr1445f ["Cowan_12%3A57675..57694"|"Cowan_sgRNA_sorted.gff"|"sgRN
 nihhekbb_01839_gr537f ["Cowan_12%3A58306..58325"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1792"|"NIHHEKBB_01839_gR537f"],1
 nihhekbb_01840_gr70r ["Cowan_12%3A58912..58931"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1793"|"NIHHEKBB_01840_gR70r"],1
 nihhekbb_01841_gr1031f ["Cowan_12%3A60695..60714"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1794"|"NIHHEKBB_01841_gR1031f"],1
-nihhekbb_01842_gr153f ["Cowan_12%3A62172..62191"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_01842_gR153f"],1
+nihhekbb_01842_gr153f ["Cowan_12%3A62172..62191"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1795"|"NIHHEKBB_01842_gR153f"],1
 nihhekbb_01843_gr901f ["Cowan_12%3A63072..63091"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1796"|"NIHHEKBB_01843_gR901f"],1
 nihhekbb_01844_gr644f ["Cowan_12%3A63889..63908"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1797"|"NIHHEKBB_01844_gR644f"],1
 nihhekbb_01845_gr286f ["Cowan_12%3A64336..64355"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1798"|"NIHHEKBB_01845_gR286f"],1
@@ -1874,7 +1874,7 @@ nihhekbb_01913_gr151r ["Cowan_13%3A48501..48520"|"Cowan_sgRNA_sorted.gff"|"sgRNA
 nihhekbb_01914_gr73r ["Cowan_13%3A48934..48953"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1863"|"NIHHEKBB_01914_gR73r"],1
 nihhekbb_01915_gr151r ["Cowan_13%3A49511..49530"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1864"|"NIHHEKBB_01915_gR151r"],1
 nihhekbb_01916_gr104r ["Cowan_13%3A49975..49994"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1865"|"NIHHEKBB_01916_gR104r"],1
-nihhekbb_01917_gr31r ["Cowan_13%3A49790..49809"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_01917_gR31r"],1 ["Cowan_13%3A50301..50320"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_01917_gR31r"],2
+nihhekbb_01917_gr31r ["Cowan_13%3A49790..49809"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2744"|"NIHHEKBB_01917_gR31r"],1 ["Cowan_13%3A50301..50320"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2721"|"NIHHEKBB_01917_gR31r"],2
 nihhekbb_01918_gr71r ["Cowan_13%3A51116..51135"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1866"|"NIHHEKBB_01918_gR71r"],1
 nihhekbb_01919_gr150r ["Cowan_13%3A51656..51675"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1867"|"NIHHEKBB_01919_gR150r"],1
 nihhekbb_01920_gr624f ["Cowan_13%3A52765..52784"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1868"|"NIHHEKBB_01920_gR624f"],1
@@ -1939,8 +1939,8 @@ nihhekbb_01979_gr20r ["Cowan_14%3A42338..42357"|"Cowan_sgRNA_sorted.gff"|"sgRNA.
 nihhekbb_01980_gr127r ["Cowan_14%3A44409..44428"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1927"|"NIHHEKBB_01980_gR127r"],1
 nihhekbb_01981_gr37r ["Cowan_14%3A44797..44816"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1928"|"NIHHEKBB_01981_gR37r"],1
 nihhekbb_01982_gr126r ["Cowan_14%3A46565..46584"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1929"|"NIHHEKBB_01982_gR126r"],1
-nihhekbb_01983_gr11r ["Cowan_14%3A48163..48182"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_01983_gR11r"],1 ["Cowan_19%3A16094..16113"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_01983_gR11r"],2 ["Cowan_24%3A171..190"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_01983_gR11r"],3
-nihhekbb_01984_gr33r ["Cowan_14%3A48267..48286"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_01984_gR33r"],1 ["Cowan_19%3A16505..16524"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_01984_gR33r"],2 ["Cowan_19%3A49816..49835"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_01984_gR33r"],3 ["Cowan_19%3A50120..50139"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_01984_gR33r"],4
+nihhekbb_01983_gr11r ["Cowan_14%3A48163..48182"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2769"|"NIHHEKBB_01983_gR11r"],1 ["Cowan_19%3A16094..16113"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2782"|"NIHHEKBB_01983_gR11r"],2 ["Cowan_24%3A171..190"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2796"|"NIHHEKBB_01983_gR11r"],3
+nihhekbb_01984_gr33r ["Cowan_14%3A48267..48286"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2806"|"NIHHEKBB_01984_gR33r"],1 ["Cowan_19%3A16505..16524"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2809"|"NIHHEKBB_01984_gR33r"],2 ["Cowan_19%3A49816..49835"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2812"|"NIHHEKBB_01984_gR33r"],3 ["Cowan_19%3A50120..50139"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2815"|"NIHHEKBB_01984_gR33r"],4
 nihhekbb_01985_gr43r ["Cowan_14%3A48955..48974"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1930"|"NIHHEKBB_01985_gR43r"],1
 nihhekbb_01986_gr32r ["Cowan_14%3A49658..49677"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1931"|"NIHHEKBB_01986_gR32r"],1
 nihhekbb_01987_gr97r ["Cowan_14%3A51542..51561"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1932"|"NIHHEKBB_01987_gR97r"],1
@@ -2011,7 +2011,7 @@ nihhekbb_02053_gr1046f ["Cowan_15%3A57547..57566"|"Cowan_sgRNA_sorted.gff"|"sgRN
 nihhekbb_02054_gr33r ["Cowan_15%3A56915..56934"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1997"|"NIHHEKBB_02054_gR33r"],1
 nihhekbb_02055_gr499f ["Cowan_15%3A58082..58101"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1998"|"NIHHEKBB_02055_gR499f"],1
 nihhekbb_02056_gr1457f ["Cowan_15%3A59950..59969"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1999"|"NIHHEKBB_02056_gR1457f"],1
-nihhekbb_02057_gr51f ["Cowan_16%3A37..56"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02057_gR51f"],1 ["Cowan_24%3A34527..34546"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02057_gR51f"],2 ["Cowan_62%3A529..548"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02057_gR51f"],3
+nihhekbb_02057_gr51f ["Cowan_16%3A37..56"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2770"|"NIHHEKBB_02057_gR51f"],1 ["Cowan_24%3A34527..34546"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2783"|"NIHHEKBB_02057_gR51f"],2 ["Cowan_62%3A529..548"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2797"|"NIHHEKBB_02057_gR51f"],3
 nihhekbb_02058_gr1311f ["Cowan_16%3A1473..1492"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2000"|"NIHHEKBB_02058_gR1311f"],1
 nihhekbb_02059_gr690f ["Cowan_16%3A2211..2230"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2001"|"NIHHEKBB_02059_gR690f"],1
 nihhekbb_02060_gr79r ["Cowan_16%3A2571..2590"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2002"|"NIHHEKBB_02060_gR79r"],1
@@ -2155,7 +2155,7 @@ nihhekbb_02197_gr1424f ["Cowan_18%3A51571..51590"|"Cowan_sgRNA_sorted.gff"|"sgRN
 nihhekbb_02198_gr48f ["Cowan_18%3A51733..51752"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2140"|"NIHHEKBB_02198_gR48f"],1
 nihhekbb_02199_gr197r ["Cowan_18%3A52362..52381"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2141"|"NIHHEKBB_02199_gR197r"],1
 nihhekbb_02202_gr246f ["Cowan_18%3A54711..54730"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2142"|"NIHHEKBB_02202_gR246f"],1
-nihhekbb_02203_gr98f ["Cowan_18%3A54875..54894"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02203_gR98f"],1 ["Cowan_57%3A764..783"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02203_gR98f"],2
+nihhekbb_02203_gr98f ["Cowan_18%3A54875..54894"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2722"|"NIHHEKBB_02203_gR98f"],1 ["Cowan_57%3A764..783"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2745"|"NIHHEKBB_02203_gR98f"],2
 nihhekbb_02204_gr287f ["Cowan_19%3A273..292"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2143"|"NIHHEKBB_02204_gR287f"],1
 nihhekbb_02205_gr614f ["Cowan_19%3A1406..1425"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2144"|"NIHHEKBB_02205_gR614f"],1
 nihhekbb_02206_gr605f ["Cowan_19%3A2286..2305"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2145"|"NIHHEKBB_02206_gR605f"],1
@@ -2175,10 +2175,10 @@ nihhekbb_02219_gr664f ["Cowan_19%3A13778..13797"|"Cowan_sgRNA_sorted.gff"|"sgRNA
 nihhekbb_02220_gr653f ["Cowan_19%3A14530..14549"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2159"|"NIHHEKBB_02220_gR653f"],1
 nihhekbb_02221_gr681f ["Cowan_19%3A15559..15578"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2160"|"NIHHEKBB_02221_gR681f"],1
 nihhekbb_02222_gr73f ["Cowan_19%3A15962..15981"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2161"|"NIHHEKBB_02222_gR73f"],1
-nihhekbb_02225_gr45f ["Cowan_19%3A16239..16258"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02225_gR45f"],1 ["Cowan_27%3A184..203"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02225_gR45f"],2
-nihhekbb_02226_gr31f ["Cowan_19%3A16314..16333"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02226_gR31f"],1 ["Cowan_19%3A49376..49395"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02226_gR31f"],2
-nihhekbb_02227_gr28f ["Cowan_19%3A16400..16419"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02227_gR28f"],1 ["Cowan_19%3A49709..49728"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02227_gR28f"],2
-nihhekbb_02229_gr29f ["Cowan_19%3A16587..16606"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02229_gR29f"],1 ["Cowan_19%3A49886..49905"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02229_gR29f"],2
+nihhekbb_02225_gr45f ["Cowan_19%3A16239..16258"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2723"|"NIHHEKBB_02225_gR45f"],1 ["Cowan_27%3A184..203"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2746"|"NIHHEKBB_02225_gR45f"],2
+nihhekbb_02226_gr31f ["Cowan_19%3A16314..16333"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2724"|"NIHHEKBB_02226_gR31f"],1 ["Cowan_19%3A49376..49395"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2747"|"NIHHEKBB_02226_gR31f"],2
+nihhekbb_02227_gr28f ["Cowan_19%3A16400..16419"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2725"|"NIHHEKBB_02227_gR28f"],1 ["Cowan_19%3A49709..49728"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2748"|"NIHHEKBB_02227_gR28f"],2
+nihhekbb_02229_gr29f ["Cowan_19%3A16587..16606"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2726"|"NIHHEKBB_02229_gR29f"],1 ["Cowan_19%3A49886..49905"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2749"|"NIHHEKBB_02229_gR29f"],2
 nihhekbb_02231_gr431f ["Cowan_19%3A17534..17553"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2162"|"NIHHEKBB_02231_gR431f"],1
 nihhekbb_02232_gr1320f ["Cowan_19%3A19297..19316"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2163"|"NIHHEKBB_02232_gR1320f"],1
 nihhekbb_02233_gr876f ["Cowan_19%3A20277..20296"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2164"|"NIHHEKBB_02233_gR876f"],1
@@ -2207,17 +2207,17 @@ nihhekbb_02255_gr129f ["Cowan_19%3A42294..42313"|"Cowan_sgRNA_sorted.gff"|"sgRNA
 nihhekbb_02256_gr507f ["Cowan_19%3A42849..42868"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2187"|"NIHHEKBB_02256_gR507f"],1
 nihhekbb_02257_gr438f ["Cowan_19%3A43538..43557"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2188"|"NIHHEKBB_02257_gR438f"],1
 nihhekbb_02258_gr1043f ["Cowan_19%3A44618..44637"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2189"|"NIHHEKBB_02258_gR1043f"],1
-nihhekbb_02259_gr720f ["Cowan_19%3A45573..45592"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02259_gR720f"],1
+nihhekbb_02259_gr720f ["Cowan_19%3A45573..45592"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2190"|"NIHHEKBB_02259_gR720f"],1
 nihhekbb_02260_gr1382f ["Cowan_19%3A46950..46969"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2191"|"NIHHEKBB_02260_gR1382f"],1
 nihhekbb_02261_gr969f ["Cowan_19%3A48253..48272"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2192"|"NIHHEKBB_02261_gR969f"],1
 nihhekbb_02262_gr77f ["Cowan_19%3A48969..48988"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2193"|"NIHHEKBB_02262_gR77f"],1
 nihhekbb_02263_gr39f ["Cowan_19%3A49053..49072"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2194"|"NIHHEKBB_02263_gR39f"],1
 nihhekbb_02264_gr39f ["Cowan_19%3A49143..49162"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2195"|"NIHHEKBB_02264_gR39f"],1
 nihhekbb_02265_gr58f ["Cowan_19%3A49244..49263"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2196"|"NIHHEKBB_02265_gR58f"],1
-nihhekbb_02266_gr56f ["Cowan_19%3A49321..49340"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02266_gR56f"],1 ["Cowan_24%3A453..472"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02266_gR56f"],2
+nihhekbb_02266_gr56f ["Cowan_19%3A49321..49340"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2727"|"NIHHEKBB_02266_gR56f"],1 ["Cowan_24%3A453..472"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2750"|"NIHHEKBB_02266_gR56f"],2
 nihhekbb_02268_gr36f ["Cowan_19%3A49459..49478"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2197"|"NIHHEKBB_02268_gR36f"],1
-nihhekbb_02269_gr36f ["Cowan_19%3A49547..49566"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02269_gR36f"],1 ["Cowan_24%3A390..409"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02269_gR36f"],2
-nihhekbb_02270_gr69f ["Cowan_19%3A49667..49686"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02270_gR69f"],1 ["Cowan_23%3A38300..38319"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02270_gR69f"],2 ["Cowan_54%3A947..966"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02270_gR69f"],3 ["Cowan_55%3A184..203"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02270_gR69f"],4
+nihhekbb_02269_gr36f ["Cowan_19%3A49547..49566"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2728"|"NIHHEKBB_02269_gR36f"],1 ["Cowan_24%3A390..409"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2751"|"NIHHEKBB_02269_gR36f"],2
+nihhekbb_02270_gr69f ["Cowan_19%3A49667..49686"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2807"|"NIHHEKBB_02270_gR69f"],1 ["Cowan_23%3A38300..38319"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2810"|"NIHHEKBB_02270_gR69f"],2 ["Cowan_54%3A947..966"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2813"|"NIHHEKBB_02270_gR69f"],3 ["Cowan_55%3A184..203"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2816"|"NIHHEKBB_02270_gR69f"],4
 nihhekbb_02274_gr45f ["Cowan_19%3A49990..50009"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2198"|"NIHHEKBB_02274_gR45f"],1
 nihhekbb_02276_gr94r ["Cowan_20%3A293..312"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2199"|"NIHHEKBB_02276_gR94r"],1
 nihhekbb_02277_gr1185f ["Cowan_20%3A1864..1883"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2200"|"NIHHEKBB_02277_gR1185f"],1
@@ -2257,14 +2257,14 @@ nihhekbb_02311_gr66r ["Cowan_20%3A35060..35079"|"Cowan_sgRNA_sorted.gff"|"sgRNA.
 nihhekbb_02313_gr76r ["Cowan_20%3A37404..37423"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2234"|"NIHHEKBB_02313_gR76r"],1
 nihhekbb_02314_gr152r ["Cowan_20%3A37766..37785"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2235"|"NIHHEKBB_02314_gR152r"],1
 nihhekbb_02315_gr1181f ["Cowan_20%3A39701..39720"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2236"|"NIHHEKBB_02315_gR1181f"],1
-nihhekbb_02316_gr168f ["Cowan_15%3A52919..52938"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02316_gR168f"],1 ["Cowan_2%3A120563..120582"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02316_gR168f"],2 ["Cowan_20%3A40058..40077"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02316_gR168f"],3 ["Cowan_3%3A194761..194780"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02316_gR168f"],4 ["Cowan_7%3A46989..47008"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02316_gR168f"],5 ["Cowan_79%3A195..214"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02316_gR168f"],6
+nihhekbb_02316_gr168f ["Cowan_15%3A52919..52938"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2842"|"NIHHEKBB_02316_gR168f"],1 ["Cowan_2%3A120563..120582"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2827"|"NIHHEKBB_02316_gR168f"],2 ["Cowan_20%3A40058..40077"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2847"|"NIHHEKBB_02316_gR168f"],3 ["Cowan_3%3A194761..194780"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2832"|"NIHHEKBB_02316_gR168f"],4 ["Cowan_7%3A46989..47008"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2837"|"NIHHEKBB_02316_gR168f"],5 ["Cowan_79%3A195..214"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2852"|"NIHHEKBB_02316_gR168f"],6
 nihhekbb_02317_gr1063f ["Cowan_20%3A41329..41348"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2237"|"NIHHEKBB_02317_gR1063f"],1
 nihhekbb_02318_gr114r ["Cowan_20%3A42048..42067"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2238"|"NIHHEKBB_02318_gR114r"],1
 nihhekbb_02319_gr76r ["Cowan_20%3A43087..43106"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2239"|"NIHHEKBB_02319_gR76r"],1
 nihhekbb_02320_gr813f ["Cowan_20%3A45087..45106"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2240"|"NIHHEKBB_02320_gR813f"],1
 nihhekbb_02321_gr967f ["Cowan_20%3A46122..46141"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2241"|"NIHHEKBB_02321_gR967f"],1
 nihhekbb_02322_gr1632f ["Cowan_20%3A47881..47900"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2242"|"NIHHEKBB_02322_gR1632f"],1
-nihhekbb_02324_gr63f ["Cowan_13%3A74686..74705"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02324_gR63f"],1 ["Cowan_20%3A48488..48507"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02324_gR63f"],2 ["Cowan_69%3A14..33"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02324_gR63f"],3
+nihhekbb_02324_gr63f ["Cowan_13%3A74686..74705"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2771"|"NIHHEKBB_02324_gR63f"],1 ["Cowan_20%3A48488..48507"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2784"|"NIHHEKBB_02324_gR63f"],2 ["Cowan_69%3A14..33"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2798"|"NIHHEKBB_02324_gR63f"],3
 nihhekbb_02326_gr106r ["Cowan_21%3A532..551"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2243"|"NIHHEKBB_02326_gR106r"],1
 nihhekbb_02327_gr97r ["Cowan_21%3A1838..1857"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2244"|"NIHHEKBB_02327_gR97r"],1
 nihhekbb_02328_gr413f ["Cowan_21%3A2643..2662"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2245"|"NIHHEKBB_02328_gR413f"],1
@@ -2328,7 +2328,7 @@ nihhekbb_02386_gr264f ["Cowan_22%3A4884..4903"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2
 nihhekbb_02387_gr636f ["Cowan_22%3A5587..5606"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2303"|"NIHHEKBB_02387_gR636f"],1
 nihhekbb_02388_gr1587f ["Cowan_22%3A7291..7310"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2304"|"NIHHEKBB_02388_gR1587f"],1
 nihhekbb_02389_gr1394f ["Cowan_22%3A8802..8821"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2305"|"NIHHEKBB_02389_gR1394f"],1
-nihhekbb_02390_gr78f ["Cowan_19%3A50023..50042"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02390_gR78f"],1 ["Cowan_22%3A9366..9385"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02390_gR78f"],2 ["Cowan_54%3A46..65"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02390_gR78f"],3
+nihhekbb_02390_gr78f ["Cowan_19%3A50023..50042"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2772"|"NIHHEKBB_02390_gR78f"],1 ["Cowan_22%3A9366..9385"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2785"|"NIHHEKBB_02390_gR78f"],2 ["Cowan_54%3A46..65"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2799"|"NIHHEKBB_02390_gR78f"],3
 nihhekbb_02391_gr1393f ["Cowan_22%3A11046..11065"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2306"|"NIHHEKBB_02391_gR1393f"],1
 nihhekbb_02392_gr4246f ["Cowan_22%3A15380..15399"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2307"|"NIHHEKBB_02392_gR4246f"],1
 nihhekbb_02393_gr62r ["Cowan_22%3A15889..15908"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2308"|"NIHHEKBB_02393_gR62r"],1
@@ -2390,9 +2390,9 @@ nihhekbb_02449_gr46r ["Cowan_23%3A33916..33935"|"Cowan_sgRNA_sorted.gff"|"sgRNA.
 nihhekbb_02450_gr212r ["Cowan_23%3A34863..34882"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2364"|"NIHHEKBB_02450_gR212r"],1
 nihhekbb_02451_gr57r ["Cowan_23%3A35070..35089"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2365"|"NIHHEKBB_02451_gR57r"],1
 nihhekbb_02452_gr27r ["Cowan_23%3A36055..36074"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2366"|"NIHHEKBB_02452_gR27r"],1
-nihhekbb_02453_gr32r ["Cowan_23%3A38107..38126"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02453_gR32r"],1 ["Cowan_43%3A67..86"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02453_gR32r"],2
-nihhekbb_02454_gr37r ["Cowan_23%3A38237..38256"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02454_gR37r"],1 ["Cowan_24%3A276..295"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02454_gR37r"],2 ["Cowan_54%3A1010..1029"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02454_gR37r"],3 ["Cowan_55%3A121..140"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02454_gR37r"],4
-nihhekbb_02461_gr10r ["Cowan_24%3A524..543"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02461_gR10r"],1 ["Cowan_54%3A864..883"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02461_gR10r"],2
+nihhekbb_02453_gr32r ["Cowan_23%3A38107..38126"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2729"|"NIHHEKBB_02453_gR32r"],1 ["Cowan_43%3A67..86"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2752"|"NIHHEKBB_02453_gR32r"],2
+nihhekbb_02454_gr37r ["Cowan_23%3A38237..38256"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2808"|"NIHHEKBB_02454_gR37r"],1 ["Cowan_24%3A276..295"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2811"|"NIHHEKBB_02454_gR37r"],2 ["Cowan_54%3A1010..1029"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2814"|"NIHHEKBB_02454_gR37r"],3 ["Cowan_55%3A121..140"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2817"|"NIHHEKBB_02454_gR37r"],4
+nihhekbb_02461_gr10r ["Cowan_24%3A524..543"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2730"|"NIHHEKBB_02461_gR10r"],1 ["Cowan_54%3A864..883"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2753"|"NIHHEKBB_02461_gR10r"],2
 nihhekbb_02462_gr43r ["Cowan_24%3A771..790"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2367"|"NIHHEKBB_02462_gR43r"],1
 nihhekbb_02463_gr63r ["Cowan_24%3A1890..1909"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2368"|"NIHHEKBB_02463_gR63r"],1
 nihhekbb_02464_gr148r ["Cowan_24%3A2786..2805"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2369"|"NIHHEKBB_02464_gR148r"],1
@@ -2450,7 +2450,7 @@ nihhekbb_02516_gr80r ["Cowan_25%3A29575..29594"|"Cowan_sgRNA_sorted.gff"|"sgRNA.
 nihhekbb_02517_gr80r ["Cowan_25%3A30409..30428"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2421"|"NIHHEKBB_02517_gR80r"],1
 nihhekbb_02518_gr65r ["Cowan_25%3A31251..31270"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2422"|"NIHHEKBB_02518_gR65r"],1
 nihhekbb_02519_gr226f ["Cowan_26%3A211..230"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2423"|"NIHHEKBB_02519_gR226f"],1
-nihhekbb_02520_gr24r ["Cowan_2%3A170409..170428"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02520_gR24r"],1 ["Cowan_26%3A1094..1113"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02520_gR24r"],2 ["Cowan_59%3A26..45"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02520_gR24r"],3
+nihhekbb_02520_gr24r ["Cowan_2%3A170409..170428"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2773"|"NIHHEKBB_02520_gR24r"],1 ["Cowan_26%3A1094..1113"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2786"|"NIHHEKBB_02520_gR24r"],2 ["Cowan_59%3A26..45"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2800"|"NIHHEKBB_02520_gR24r"],3
 nihhekbb_02521_gr2131f ["Cowan_26%3A3561..3580"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2424"|"NIHHEKBB_02521_gR2131f"],1
 nihhekbb_02522_gr335f ["Cowan_26%3A3938..3957"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2425"|"NIHHEKBB_02522_gR335f"],1
 nihhekbb_02523_gr170f ["Cowan_26%3A4376..4395"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2426"|"NIHHEKBB_02523_gR170f"],1
@@ -2507,7 +2507,7 @@ nihhekbb_02576_gr82r ["Cowan_28%3A387..406"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2476
 nihhekbb_02577_gr22r ["Cowan_28%3A1082..1101"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2477"|"NIHHEKBB_02577_gR22r"],1
 nihhekbb_02578_gr27r ["Cowan_28%3A1574..1593"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2478"|"NIHHEKBB_02578_gR27r"],1
 nihhekbb_02579_gr12r ["Cowan_28%3A2781..2800"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2479"|"NIHHEKBB_02579_gR12r"],1
-nihhekbb_02580_gr11r ["Cowan_28%3A4155..4174"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02580_gR11r"],1
+nihhekbb_02580_gr11r ["Cowan_28%3A4155..4174"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2480"|"NIHHEKBB_02580_gR11r"],1
 nihhekbb_02581_gr103r ["Cowan_28%3A5307..5326"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2481"|"NIHHEKBB_02581_gR103r"],1
 nihhekbb_02582_gr146r ["Cowan_28%3A5886..5905"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2482"|"NIHHEKBB_02582_gR146r"],1
 nihhekbb_02583_gr54r ["Cowan_28%3A6770..6789"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2483"|"NIHHEKBB_02583_gR54r"],1
@@ -2531,7 +2531,7 @@ nihhekbb_02600_gr169r ["Cowan_28%3A22819..22838"|"Cowan_sgRNA_sorted.gff"|"sgRNA
 nihhekbb_02601_gr100r ["Cowan_28%3A23993..24012"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2501"|"NIHHEKBB_02601_gR100r"],1
 nihhekbb_02602_gr137r ["Cowan_28%3A24481..24500"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2502"|"NIHHEKBB_02602_gR137r"],1
 nihhekbb_02603_gr113r ["Cowan_28%3A24875..24894"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2503"|"NIHHEKBB_02603_gR113r"],1
-nihhekbb_02604_gr17r ["Cowan_28%3A25789..25808"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02604_gR17r"],1
+nihhekbb_02604_gr17r ["Cowan_28%3A25789..25808"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2504"|"NIHHEKBB_02604_gR17r"],1
 nihhekbb_02605_gr1308f ["Cowan_29%3A1420..1439"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2505"|"NIHHEKBB_02605_gR1308f"],1
 nihhekbb_02606_gr813f ["Cowan_29%3A2293..2312"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2506"|"NIHHEKBB_02606_gR813f"],1
 nihhekbb_02607_gr60r ["Cowan_29%3A2491..2510"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2507"|"NIHHEKBB_02607_gR60r"],1
@@ -2553,8 +2553,8 @@ nihhekbb_02622_gr47r ["Cowan_29%3A18785..18804"|"Cowan_sgRNA_sorted.gff"|"sgRNA.
 nihhekbb_02623_gr300r ["Cowan_29%3A20110..20129"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2523"|"NIHHEKBB_02623_gR300r"],1
 nihhekbb_02624_gr47r ["Cowan_29%3A20817..20836"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2524"|"NIHHEKBB_02624_gR47r"],1
 nihhekbb_02625_gr166r ["Cowan_29%3A22803..22822"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2525"|"NIHHEKBB_02625_gR166r"],1
-nihhekbb_02626_gr104r ["Cowan_30%3A101..120"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02626_gR104r"],1
-nihhekbb_02628_gr121r ["Cowan_30%3A412..431"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02628_gR121r"],1 ["Cowan_31%3A103..122"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02628_gR121r"],2
+nihhekbb_02626_gr104r ["Cowan_30%3A101..120"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2526"|"NIHHEKBB_02626_gR104r"],1
+nihhekbb_02628_gr121r ["Cowan_30%3A412..431"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2731"|"NIHHEKBB_02628_gR121r"],1 ["Cowan_31%3A103..122"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2754"|"NIHHEKBB_02628_gR121r"],2
 nihhekbb_02630_gr133r ["Cowan_30%3A799..818"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2527"|"NIHHEKBB_02630_gR133r"],1
 nihhekbb_02631_gr24r ["Cowan_30%3A1266..1285"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2528"|"NIHHEKBB_02631_gR24r"],1
 nihhekbb_02632_gr34r ["Cowan_30%3A1735..1754"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2529"|"NIHHEKBB_02632_gR34r"],1
@@ -2619,7 +2619,7 @@ nihhekbb_02692_gr174r ["Cowan_33%3A7251..7270"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2
 nihhekbb_02693_gr106r ["Cowan_33%3A7982..8001"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2588"|"NIHHEKBB_02693_gR106r"],1
 nihhekbb_02694_gr165r ["Cowan_33%3A8863..8882"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2589"|"NIHHEKBB_02694_gR165r"],1
 nihhekbb_02695_gr349r ["Cowan_33%3A10086..10105"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2590"|"NIHHEKBB_02695_gR349r"],1
-nihhekbb_02696_gr60r ["Cowan_33%3A10533..10552"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02696_gR60r"],1
+nihhekbb_02696_gr60r ["Cowan_33%3A10533..10552"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2591"|"NIHHEKBB_02696_gR60r"],1
 nihhekbb_02697_gr99r ["Cowan_33%3A10646..10665"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2592"|"NIHHEKBB_02697_gR99r"],1
 nihhekbb_02698_gr188r ["Cowan_33%3A11985..12004"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2593"|"NIHHEKBB_02698_gR188r"],1
 nihhekbb_02699_gr22r ["Cowan_33%3A12161..12180"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2594"|"NIHHEKBB_02699_gR22r"],1
@@ -2629,7 +2629,7 @@ nihhekbb_02702_gr408f ["Cowan_34%3A3698..3717"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2
 nihhekbb_02703_gr322r ["Cowan_34%3A4745..4764"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2598"|"NIHHEKBB_02703_gR322r"],1
 nihhekbb_02704_gr477f ["Cowan_34%3A5903..5922"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2599"|"NIHHEKBB_02704_gR477f"],1
 nihhekbb_02705_gr25r ["Cowan_34%3A7018..7037"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2600"|"NIHHEKBB_02705_gR25r"],1
-nihhekbb_02707_gr130r ["Cowan_35%3A278..297"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02707_gR130r"],1 ["Cowan_36%3A5362..5381"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02707_gR130r"],2
+nihhekbb_02707_gr130r ["Cowan_35%3A278..297"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2732"|"NIHHEKBB_02707_gR130r"],1 ["Cowan_36%3A5362..5381"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2755"|"NIHHEKBB_02707_gR130r"],2
 nihhekbb_02708_gr75r ["Cowan_35%3A492..511"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2601"|"NIHHEKBB_02708_gR75r"],1
 nihhekbb_02709_gr128r ["Cowan_35%3A817..836"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2602"|"NIHHEKBB_02709_gR128r"],1
 nihhekbb_02710_gr124r ["Cowan_35%3A2758..2777"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2603"|"NIHHEKBB_02710_gR124r"],1
@@ -2700,7 +2700,7 @@ nihhekbb_02780_gr242f ["Cowan_47%3A228..247"|"Cowan_sgRNA_sorted.gff"|"sgRNA.266
 nihhekbb_02781_gr69r ["Cowan_47%3A512..531"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2668"|"NIHHEKBB_02781_gR69r"],1
 nihhekbb_02782_gr140r ["Cowan_47%3A817..836"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2669"|"NIHHEKBB_02782_gR140r"],1
 nihhekbb_02783_gr139r ["Cowan_47%3A1621..1640"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2670"|"NIHHEKBB_02783_gR139r"],1
-nihhekbb_02784_gr57r ["Cowan_48%3A55..74"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02784_gR57r"],1 ["Cowan_58%3A696..715"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02784_gR57r"],2 ["Cowan_89%3A186..205"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02784_gR57r"],3
+nihhekbb_02784_gr57r ["Cowan_48%3A55..74"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2774"|"NIHHEKBB_02784_gR57r"],1 ["Cowan_58%3A696..715"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2787"|"NIHHEKBB_02784_gR57r"],2 ["Cowan_89%3A186..205"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2801"|"NIHHEKBB_02784_gR57r"],3
 nihhekbb_02785_gr140r ["Cowan_48%3A559..578"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2671"|"NIHHEKBB_02785_gR140r"],1
 nihhekbb_02786_gr28r ["Cowan_48%3A854..873"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2672"|"NIHHEKBB_02786_gR28r"],1
 nihhekbb_02788_gr64r ["Cowan_48%3A1434..1453"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2673"|"NIHHEKBB_02788_gR64r"],1
@@ -2711,8 +2711,8 @@ nihhekbb_02793_gr756f ["Cowan_51%3A845..864"|"Cowan_sgRNA_sorted.gff"|"sgRNA.267
 nihhekbb_02795_gr35r ["Cowan_51%3A1353..1372"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2678"|"NIHHEKBB_02795_gR35r"],1
 nihhekbb_02797_gr79f ["Cowan_52%3A153..172"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2679"|"NIHHEKBB_02797_gR79f"],1
 nihhekbb_02798_gr459f ["Cowan_52%3A743..762"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2680"|"NIHHEKBB_02798_gR459f"],1
-nihhekbb_02799_gr232f ["Cowan_52%3A1049..1068"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02799_gR232f"],1 ["Cowan_56%3A816..835"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02799_gR232f"],2
-nihhekbb_02800_gr240f ["Cowan_52%3A1316..1335"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02800_gR240f"],1 ["Cowan_56%3A549..568"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02800_gR240f"],2
+nihhekbb_02799_gr232f ["Cowan_52%3A1049..1068"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2733"|"NIHHEKBB_02799_gR232f"],1 ["Cowan_56%3A816..835"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2756"|"NIHHEKBB_02799_gR232f"],2
+nihhekbb_02800_gr240f ["Cowan_52%3A1316..1335"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2734"|"NIHHEKBB_02800_gR240f"],1 ["Cowan_56%3A549..568"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2757"|"NIHHEKBB_02800_gR240f"],2
 nihhekbb_02801_gr90f ["Cowan_52%3A1415..1434"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2681"|"NIHHEKBB_02801_gR90f"],1
 nihhekbb_02802_gr24r ["Cowan_53%3A131..150"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2682"|"NIHHEKBB_02802_gR24r"],1
 nihhekbb_02803_gr151f ["Cowan_53%3A474..493"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2683"|"NIHHEKBB_02803_gR151f"],1
@@ -2720,11 +2720,11 @@ nihhekbb_02804_gr155r ["Cowan_53%3A732..751"|"Cowan_sgRNA_sorted.gff"|"sgRNA.268
 nihhekbb_02805_gr51f ["Cowan_53%3A966..985"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2685"|"NIHHEKBB_02805_gR51f"],1
 nihhekbb_02806_gr65f ["Cowan_54%3A135..154"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2686"|"NIHHEKBB_02806_gR65f"],1
 nihhekbb_02807_gr31f ["Cowan_54%3A202..221"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2687"|"NIHHEKBB_02807_gR31f"],1
-nihhekbb_02808_gr44f ["Cowan_54%3A311..330"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02808_gR44f"],1 ["Cowan_67%3A308..327"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02808_gR44f"],2
-nihhekbb_02809_gr29f ["Cowan_54%3A389..408"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02809_gR29f"],1 ["Cowan_55%3A683..702"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02809_gR29f"],2
-nihhekbb_02810_gr66f ["Cowan_54%3A508..527"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02810_gR66f"],1 ["Cowan_55%3A550..569"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02810_gR66f"],2
-nihhekbb_02811_gr82f ["Cowan_54%3A617..636"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02811_gR82f"],1 ["Cowan_55%3A454..473"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02811_gR82f"],2
-nihhekbb_02812_gr41f ["Cowan_54%3A675..694"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02812_gR41f"],1 ["Cowan_55%3A399..418"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02812_gR41f"],2
+nihhekbb_02808_gr44f ["Cowan_54%3A311..330"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2735"|"NIHHEKBB_02808_gR44f"],1 ["Cowan_67%3A308..327"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2758"|"NIHHEKBB_02808_gR44f"],2
+nihhekbb_02809_gr29f ["Cowan_54%3A389..408"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2736"|"NIHHEKBB_02809_gR29f"],1 ["Cowan_55%3A683..702"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2759"|"NIHHEKBB_02809_gR29f"],2
+nihhekbb_02810_gr66f ["Cowan_54%3A508..527"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2737"|"NIHHEKBB_02810_gR66f"],1 ["Cowan_55%3A550..569"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2760"|"NIHHEKBB_02810_gR66f"],2
+nihhekbb_02811_gr82f ["Cowan_54%3A617..636"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2738"|"NIHHEKBB_02811_gR82f"],1 ["Cowan_55%3A454..473"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2761"|"NIHHEKBB_02811_gR82f"],2
+nihhekbb_02812_gr41f ["Cowan_54%3A675..694"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2739"|"NIHHEKBB_02812_gR41f"],1 ["Cowan_55%3A399..418"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2762"|"NIHHEKBB_02812_gR41f"],2
 nihhekbb_02813_gr31f ["Cowan_54%3A742..761"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2688"|"NIHHEKBB_02813_gR31f"],1
 nihhekbb_02819_gr11r ["Cowan_55%3A268..287"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2689"|"NIHHEKBB_02819_gR11r"],1
 nihhekbb_02824_gr33r ["Cowan_55%3A767..786"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2690"|"NIHHEKBB_02824_gR33r"],1
@@ -2743,22 +2743,22 @@ nihhekbb_02838_gr308r ["Cowan_65%3A305..324"|"Cowan_sgRNA_sorted.gff"|"sgRNA.270
 nihhekbb_02839_gr308r ["Cowan_66%3A305..324"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2703"|"NIHHEKBB_02839_gR308r"],1
 nihhekbb_02841_gr68f ["Cowan_67%3A426..445"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2704"|"NIHHEKBB_02841_gR68f"],1
 nihhekbb_02842_gr434f ["Cowan_68%3A427..446"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2705"|"NIHHEKBB_02842_gR434f"],1
-nihhekbb_02843_gr440f ["Cowan_47%3A42..61"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02843_gR440f"],1 ["Cowan_51%3A1560..1579"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02843_gR440f"],2 ["Cowan_69%3A424..443"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02843_gR440f"],3
+nihhekbb_02843_gr440f ["Cowan_47%3A42..61"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2775"|"NIHHEKBB_02843_gR440f"],1 ["Cowan_51%3A1560..1579"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2788"|"NIHHEKBB_02843_gR440f"],2 ["Cowan_69%3A424..443"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2802"|"NIHHEKBB_02843_gR440f"],3
 nihhekbb_02844_gr91r ["Cowan_70%3A89..108"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2706"|"NIHHEKBB_02844_gR91r"],1
 nihhekbb_02845_gr93f ["Cowan_71%3A79..98"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2707"|"NIHHEKBB_02845_gR93f"],1
 nihhekbb_02847_gr289f ["Cowan_73%3A275..294"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2708"|"NIHHEKBB_02847_gR289f"],1
 nihhekbb_02848_gr30r ["Cowan_74%3A68..87"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2709"|"NIHHEKBB_02848_gR30r"],1
 nihhekbb_02849_gr133f ["Cowan_75%3A263..282"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2710"|"NIHHEKBB_02849_gR133f"],1
 nihhekbb_02850_gr107r ["Cowan_76%3A104..123"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2711"|"NIHHEKBB_02850_gR107r"],1
-nihhekbb_02851_gr48r ["Cowan_44%3A3002..3021"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02851_gR48r"],1 ["Cowan_53%3A1277..1296"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02851_gR48r"],2 ["Cowan_76%3A310..329"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02851_gR48r"],3
+nihhekbb_02851_gr48r ["Cowan_44%3A3002..3021"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2776"|"NIHHEKBB_02851_gR48r"],1 ["Cowan_53%3A1277..1296"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2789"|"NIHHEKBB_02851_gR48r"],2 ["Cowan_76%3A310..329"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2803"|"NIHHEKBB_02851_gR48r"],3
 nihhekbb_02852_gr112r ["Cowan_77%3A110..129"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2712"|"NIHHEKBB_02852_gR112r"],1
-nihhekbb_02854_gr37r ["Cowan_2%3A170481..170500"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02854_gR37r"],1 ["Cowan_79%3A103..122"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02854_gR37r"],2
+nihhekbb_02854_gr37r ["Cowan_2%3A170481..170500"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2740"|"NIHHEKBB_02854_gR37r"],1 ["Cowan_79%3A103..122"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2763"|"NIHHEKBB_02854_gR37r"],2
 nihhekbb_02855_gr118f ["Cowan_80%3A145..164"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2713"|"NIHHEKBB_02855_gR118f"],1
 nihhekbb_02856_gr121r ["Cowan_81%3A120..139"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2714"|"NIHHEKBB_02856_gR121r"],1
-nihhekbb_02857_gr46r ["Cowan_35%3A6343..6362"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02857_gR46r"],1 ["Cowan_81%3A222..241"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02857_gR46r"],2
+nihhekbb_02857_gr46r ["Cowan_35%3A6343..6362"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2741"|"NIHHEKBB_02857_gR46r"],1 ["Cowan_81%3A222..241"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2764"|"NIHHEKBB_02857_gR46r"],2
 nihhekbb_02858_gr116r ["Cowan_82%3A113..132"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2715"|"NIHHEKBB_02858_gR116r"],1
-nihhekbb_02859_gr35r ["Cowan_36%3A25..44"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02859_gR35r"],1 ["Cowan_37%3A25..44"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02859_gR35r"],2 ["Cowan_83%3A34..53"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02859_gR35r"],3
-nihhekbb_02860_gr52r ["Cowan_56%3A42..61"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02860_gR52r"],1 ["Cowan_81%3A42..61"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02860_gR52r"],2 ["Cowan_83%3A232..251"|"Cowan_sgRNA_sorted.gff"|"NIHHEKBB_02860_gR52r"],3
+nihhekbb_02859_gr35r ["Cowan_36%3A25..44"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2777"|"NIHHEKBB_02859_gR35r"],1 ["Cowan_37%3A25..44"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2790"|"NIHHEKBB_02859_gR35r"],2 ["Cowan_83%3A34..53"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2804"|"NIHHEKBB_02859_gR35r"],3
+nihhekbb_02860_gr52r ["Cowan_56%3A42..61"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2778"|"NIHHEKBB_02860_gR52r"],1 ["Cowan_81%3A42..61"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2791"|"NIHHEKBB_02860_gR52r"],2 ["Cowan_83%3A232..251"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2805"|"NIHHEKBB_02860_gR52r"],3
 nihhekbb_02863_gr168f ["Cowan_87%3A154..173"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2716"|"NIHHEKBB_02863_gR168f"],1
 nihhekbb_02864_gr151f ["Cowan_88%3A135..154"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2717"|"NIHHEKBB_02864_gR151f"],1
 nihhekbb_02865_gr83r ["Cowan_89%3A80..99"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2718"|"NIHHEKBB_02865_gR83r"],1
@@ -2771,6 +2771,7 @@ sgrna.0006 ["Cowan_1%3A3469..3488"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0006"|"NIHHEK
 sgrna.0007 ["Cowan_1%3A3740..3759"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0007"|"NIHHEKBB_00010_gR76r"],1
 sgrna.0008 ["Cowan_1%3A6807..6826"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0008"|"NIHHEKBB_00011_gR1908f"],1
 sgrna.0009 ["Cowan_1%3A7513..7532"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0009"|"NIHHEKBB_00012_gR585f"],1
+sgrna.0010 ["Cowan_1%3A9843..9862"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0010"|"NIHHEKBB_00013_gR1738f"],1
 sgrna.0011 ["Cowan_1%3A10471..10490"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0011"|"NIHHEKBB_00014_gR634f"],1
 sgrna.0012 ["Cowan_1%3A11286..11305"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0012"|"NIHHEKBB_00015_gR591f"],1
 sgrna.0013 ["Cowan_1%3A11864..11883"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0013"|"NIHHEKBB_00016_gR439f"],1
@@ -2802,6 +2803,7 @@ sgrna.0038 ["Cowan_1%3A36942..36961"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0038"|"NIHH
 sgrna.0039 ["Cowan_1%3A38271..38290"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0039"|"NIHHEKBB_00043_gR1285f"],1
 sgrna.0040 ["Cowan_1%3A40222..40241"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0040"|"NIHHEKBB_00044_gR1664f"],1
 sgrna.0041 ["Cowan_1%3A40538..40557"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0041"|"NIHHEKBB_00045_gR285f"],1
+sgrna.0042 ["Cowan_1%3A42000..42019"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0042"|"NIHHEKBB_00046_gR864f"],1
 sgrna.0043 ["Cowan_1%3A42113..42132"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0043"|"NIHHEKBB_00047_gR118f"],1
 sgrna.0044 ["Cowan_1%3A43488..43507"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0044"|"NIHHEKBB_00048_gR1270f"],1
 sgrna.0045 ["Cowan_1%3A43940..43959"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0045"|"NIHHEKBB_00049_gR368f"],1
@@ -3569,6 +3571,7 @@ sgrna.0806 ["Cowan_3%3A167443..167462"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0806"|"NI
 sgrna.0807 ["Cowan_3%3A169893..169912"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0807"|"NIHHEKBB_00828_gR2202f"],1
 sgrna.0808 ["Cowan_3%3A170917..170936"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0808"|"NIHHEKBB_00829_gR846f"],1
 sgrna.0809 ["Cowan_3%3A171188..171207"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0809"|"NIHHEKBB_00830_gR180f"],1
+sgrna.0810 ["Cowan_3%3A172567..172586"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0810"|"NIHHEKBB_00831_gR1233f"],1
 sgrna.0811 ["Cowan_3%3A174098..174117"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0811"|"NIHHEKBB_00832_gR1533f"],1
 sgrna.0812 ["Cowan_3%3A175235..175254"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0812"|"NIHHEKBB_00833_gR1106f"],1
 sgrna.0813 ["Cowan_3%3A182032..182051"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0813"|"NIHHEKBB_00834_gR6563f"],1
@@ -3587,6 +3590,7 @@ sgrna.0825 ["Cowan_3%3A190125..190144"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0825"|"NI
 sgrna.0826 ["Cowan_3%3A190916..190935"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0826"|"NIHHEKBB_00847_gR524f"],1
 sgrna.0827 ["Cowan_3%3A190991..191010"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0827"|"NIHHEKBB_00848_gR41f"],1
 sgrna.0828 ["Cowan_3%3A191166..191185"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0828"|"NIHHEKBB_00849_gR37r"],1
+sgrna.0829 ["Cowan_3%3A192347..192366"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0829"|"NIHHEKBB_00850_gR16r"],1
 sgrna.0830 ["Cowan_3%3A192691..192710"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0830"|"NIHHEKBB_00851_gR58r"],1
 sgrna.0831 ["Cowan_3%3A193536..193555"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0831"|"NIHHEKBB_00852_gR44r"],1
 sgrna.0832 ["Cowan_3%3A194674..194693"|"Cowan_sgRNA_sorted.gff"|"sgRNA.0832"|"NIHHEKBB_00853_gR14r"],1
@@ -3888,6 +3892,7 @@ sgrna.1127 ["Cowan_5%3A123694..123713"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1127"|"NI
 sgrna.1128 ["Cowan_5%3A124308..124327"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1128"|"NIHHEKBB_01159_gR131f"],1
 sgrna.1129 ["Cowan_5%3A124971..124990"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1129"|"NIHHEKBB_01160_gR552f"],1
 sgrna.1130 ["Cowan_5%3A125705..125724"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1130"|"NIHHEKBB_01161_gR675f"],1
+sgrna.1131 ["Cowan_5%3A128997..129016"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1131"|"NIHHEKBB_01162_gR3165f"],1
 sgrna.1132 ["Cowan_5%3A130040..130059"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1132"|"NIHHEKBB_01163_gR1042f"],1
 sgrna.1133 ["Cowan_5%3A131264..131283"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1133"|"NIHHEKBB_01164_gR1164f"],1
 sgrna.1134 ["Cowan_5%3A132212..132231"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1134"|"NIHHEKBB_01165_gR820f"],1
@@ -4096,6 +4101,7 @@ sgrna.1336 ["Cowan_7%3A97165..97184"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1336"|"NIHH
 sgrna.1337 ["Cowan_7%3A98086..98105"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1337"|"NIHHEKBB_01374_gR128r"],1
 sgrna.1338 ["Cowan_7%3A98981..99000"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1338"|"NIHHEKBB_01375_gR159r"],1
 sgrna.1339 ["Cowan_7%3A99725..99744"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1339"|"NIHHEKBB_01376_gR121r"],1
+sgrna.1340 ["Cowan_7%3A100063..100082"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1340"|"NIHHEKBB_01377_gR11r"],1
 sgrna.1341 ["Cowan_7%3A100849..100868"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1341"|"NIHHEKBB_01378_gR111r"],1
 sgrna.1342 ["Cowan_7%3A102809..102828"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1342"|"NIHHEKBB_01379_gR957f"],1
 sgrna.1343 ["Cowan_7%3A103766..103785"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1343"|"NIHHEKBB_01380_gR799f"],1
@@ -4220,6 +4226,7 @@ sgrna.1461 ["Cowan_8%3A82498..82517"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1461"|"NIHH
 sgrna.1462 ["Cowan_8%3A83547..83566"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1462"|"NIHHEKBB_01499_gR95r"],1
 sgrna.1463 ["Cowan_8%3A84781..84800"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1463"|"NIHHEKBB_01500_gR79r"],1
 sgrna.1464 ["Cowan_8%3A85823..85842"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1464"|"NIHHEKBB_01501_gR111r"],1
+sgrna.1465 ["Cowan_8%3A86299..86318"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1465"|"NIHHEKBB_01502_gR10r"],1
 sgrna.1466 ["Cowan_8%3A86838..86857"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1466"|"NIHHEKBB_01503_gR71r"],1
 sgrna.1467 ["Cowan_8%3A87764..87783"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1467"|"NIHHEKBB_01504_gR44r"],1
 sgrna.1468 ["Cowan_8%3A89037..89056"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1468"|"NIHHEKBB_01505_gR99r"],1
@@ -4288,6 +4295,8 @@ sgrna.1530 ["Cowan_9%3A46186..46205"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1530"|"NIHH
 sgrna.1531 ["Cowan_9%3A46807..46826"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1531"|"NIHHEKBB_01573_gR54r"],1
 sgrna.1532 ["Cowan_9%3A47220..47239"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1532"|"NIHHEKBB_01574_gR73r"],1
 sgrna.1533 ["Cowan_9%3A47867..47886"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1533"|"NIHHEKBB_01575_gR143r"],1
+sgrna.1534 ["Cowan_9%3A48174..48193"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1534"|"NIHHEKBB_01576_gR43r"],1
+sgrna.1535 ["Cowan_9%3A48260..48279"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1535"|"NIHHEKBB_01577_gR91r"],1
 sgrna.1536 ["Cowan_9%3A48750..48769"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1536"|"NIHHEKBB_01578_gR31r"],1
 sgrna.1537 ["Cowan_9%3A50138..50157"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1537"|"NIHHEKBB_01579_gR190r"],1
 sgrna.1538 ["Cowan_9%3A51929..51948"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1538"|"NIHHEKBB_01581_gR1317f"],1
@@ -4491,6 +4500,7 @@ sgrna.1735 ["Cowan_12%3A5000..5019"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1735"|"NIHHE
 sgrna.1736 ["Cowan_12%3A6073..6092"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1736"|"NIHHEKBB_01783_gR73r"],1
 sgrna.1737 ["Cowan_12%3A6430..6449"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1737"|"NIHHEKBB_01784_gR97r"],1
 sgrna.1738 ["Cowan_12%3A7358..7377"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1738"|"NIHHEKBB_01785_gR235r"],1
+sgrna.1739 ["Cowan_12%3A8067..8086"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1739"|"NIHHEKBB_01786_gR22r"],1
 sgrna.1740 ["Cowan_12%3A9412..9431"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1740"|"NIHHEKBB_01787_gR29r"],1
 sgrna.1741 ["Cowan_12%3A11819..11838"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1741"|"NIHHEKBB_01788_gR1330f"],1
 sgrna.1742 ["Cowan_12%3A12106..12125"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1742"|"NIHHEKBB_01789_gR256f"],1
@@ -4520,6 +4530,7 @@ sgrna.1765 ["Cowan_12%3A33360..33379"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1765"|"NIH
 sgrna.1766 ["Cowan_12%3A34015..34034"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1766"|"NIHHEKBB_01813_gR79r"],1
 sgrna.1767 ["Cowan_12%3A35922..35941"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1767"|"NIHHEKBB_01814_gR735f"],1
 sgrna.1768 ["Cowan_12%3A38138..38157"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1768"|"NIHHEKBB_01815_gR2156f"],1
+sgrna.1769 ["Cowan_12%3A40032..40051"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1769"|"NIHHEKBB_01816_gR1825f"],1
 sgrna.1770 ["Cowan_12%3A41104..41123"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1770"|"NIHHEKBB_01817_gR1087f"],1
 sgrna.1771 ["Cowan_12%3A42253..42272"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1771"|"NIHHEKBB_01818_gR1079f"],1
 sgrna.1772 ["Cowan_12%3A42676..42695"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1772"|"NIHHEKBB_01819_gR333f"],1
@@ -4545,6 +4556,7 @@ sgrna.1791 ["Cowan_12%3A57675..57694"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1791"|"NIH
 sgrna.1792 ["Cowan_12%3A58306..58325"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1792"|"NIHHEKBB_01839_gR537f"],1
 sgrna.1793 ["Cowan_12%3A58912..58931"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1793"|"NIHHEKBB_01840_gR70r"],1
 sgrna.1794 ["Cowan_12%3A60695..60714"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1794"|"NIHHEKBB_01841_gR1031f"],1
+sgrna.1795 ["Cowan_12%3A62172..62191"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1795"|"NIHHEKBB_01842_gR153f"],1
 sgrna.1796 ["Cowan_12%3A63072..63091"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1796"|"NIHHEKBB_01843_gR901f"],1
 sgrna.1797 ["Cowan_12%3A63889..63908"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1797"|"NIHHEKBB_01844_gR644f"],1
 sgrna.1798 ["Cowan_12%3A64336..64355"|"Cowan_sgRNA_sorted.gff"|"sgRNA.1798"|"NIHHEKBB_01845_gR286f"],1
@@ -4939,6 +4951,7 @@ sgrna.2186 ["Cowan_19%3A42294..42313"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2186"|"NIH
 sgrna.2187 ["Cowan_19%3A42849..42868"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2187"|"NIHHEKBB_02256_gR507f"],1
 sgrna.2188 ["Cowan_19%3A43538..43557"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2188"|"NIHHEKBB_02257_gR438f"],1
 sgrna.2189 ["Cowan_19%3A44618..44637"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2189"|"NIHHEKBB_02258_gR1043f"],1
+sgrna.2190 ["Cowan_19%3A45573..45592"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2190"|"NIHHEKBB_02259_gR720f"],1
 sgrna.2191 ["Cowan_19%3A46950..46969"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2191"|"NIHHEKBB_02260_gR1382f"],1
 sgrna.2192 ["Cowan_19%3A48253..48272"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2192"|"NIHHEKBB_02261_gR969f"],1
 sgrna.2193 ["Cowan_19%3A48969..48988"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2193"|"NIHHEKBB_02262_gR77f"],1
@@ -5228,6 +5241,7 @@ sgrna.2476 ["Cowan_28%3A387..406"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2476"|"NIHHEKB
 sgrna.2477 ["Cowan_28%3A1082..1101"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2477"|"NIHHEKBB_02577_gR22r"],1
 sgrna.2478 ["Cowan_28%3A1574..1593"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2478"|"NIHHEKBB_02578_gR27r"],1
 sgrna.2479 ["Cowan_28%3A2781..2800"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2479"|"NIHHEKBB_02579_gR12r"],1
+sgrna.2480 ["Cowan_28%3A4155..4174"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2480"|"NIHHEKBB_02580_gR11r"],1
 sgrna.2481 ["Cowan_28%3A5307..5326"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2481"|"NIHHEKBB_02581_gR103r"],1
 sgrna.2482 ["Cowan_28%3A5886..5905"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2482"|"NIHHEKBB_02582_gR146r"],1
 sgrna.2483 ["Cowan_28%3A6770..6789"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2483"|"NIHHEKBB_02583_gR54r"],1
@@ -5251,6 +5265,7 @@ sgrna.2500 ["Cowan_28%3A22819..22838"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2500"|"NIH
 sgrna.2501 ["Cowan_28%3A23993..24012"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2501"|"NIHHEKBB_02601_gR100r"],1
 sgrna.2502 ["Cowan_28%3A24481..24500"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2502"|"NIHHEKBB_02602_gR137r"],1
 sgrna.2503 ["Cowan_28%3A24875..24894"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2503"|"NIHHEKBB_02603_gR113r"],1
+sgrna.2504 ["Cowan_28%3A25789..25808"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2504"|"NIHHEKBB_02604_gR17r"],1
 sgrna.2505 ["Cowan_29%3A1420..1439"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2505"|"NIHHEKBB_02605_gR1308f"],1
 sgrna.2506 ["Cowan_29%3A2293..2312"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2506"|"NIHHEKBB_02606_gR813f"],1
 sgrna.2507 ["Cowan_29%3A2491..2510"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2507"|"NIHHEKBB_02607_gR60r"],1
@@ -5272,6 +5287,7 @@ sgrna.2522 ["Cowan_29%3A18785..18804"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2522"|"NIH
 sgrna.2523 ["Cowan_29%3A20110..20129"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2523"|"NIHHEKBB_02623_gR300r"],1
 sgrna.2524 ["Cowan_29%3A20817..20836"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2524"|"NIHHEKBB_02624_gR47r"],1
 sgrna.2525 ["Cowan_29%3A22803..22822"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2525"|"NIHHEKBB_02625_gR166r"],1
+sgrna.2526 ["Cowan_30%3A101..120"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2526"|"NIHHEKBB_02626_gR104r"],1
 sgrna.2527 ["Cowan_30%3A799..818"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2527"|"NIHHEKBB_02630_gR133r"],1
 sgrna.2528 ["Cowan_30%3A1266..1285"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2528"|"NIHHEKBB_02631_gR24r"],1
 sgrna.2529 ["Cowan_30%3A1735..1754"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2529"|"NIHHEKBB_02632_gR34r"],1
@@ -5336,6 +5352,7 @@ sgrna.2587 ["Cowan_33%3A7251..7270"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2587"|"NIHHE
 sgrna.2588 ["Cowan_33%3A7982..8001"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2588"|"NIHHEKBB_02693_gR106r"],1
 sgrna.2589 ["Cowan_33%3A8863..8882"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2589"|"NIHHEKBB_02694_gR165r"],1
 sgrna.2590 ["Cowan_33%3A10086..10105"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2590"|"NIHHEKBB_02695_gR349r"],1
+sgrna.2591 ["Cowan_33%3A10533..10552"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2591"|"NIHHEKBB_02696_gR60r"],1
 sgrna.2592 ["Cowan_33%3A10646..10665"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2592"|"NIHHEKBB_02697_gR99r"],1
 sgrna.2593 ["Cowan_33%3A11985..12004"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2593"|"NIHHEKBB_02698_gR188r"],1
 sgrna.2594 ["Cowan_33%3A12161..12180"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2594"|"NIHHEKBB_02699_gR22r"],1
@@ -5463,3 +5480,138 @@ sgrna.2715 ["Cowan_82%3A113..132"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2715"|"NIHHEKB
 sgrna.2716 ["Cowan_87%3A154..173"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2716"|"NIHHEKBB_02863_gR168f"],1
 sgrna.2717 ["Cowan_88%3A135..154"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2717"|"NIHHEKBB_02864_gR151f"],1
 sgrna.2718 ["Cowan_89%3A80..99"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2718"|"NIHHEKBB_02865_gR83r"],1
+sgrna.2719 ["Cowan_2%3A170355..170374"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2719"|"NIHHEKBB_00531_gR203f"],1
+sgrna.2720 ["Cowan_2%3A170455..170474"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2720"|"NIHHEKBB_00532_gR23r"],1
+sgrna.2721 ["Cowan_13%3A50301..50320"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2721"|"NIHHEKBB_01917_gR31r"],1
+sgrna.2722 ["Cowan_18%3A54875..54894"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2722"|"NIHHEKBB_02203_gR98f"],1
+sgrna.2723 ["Cowan_19%3A16239..16258"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2723"|"NIHHEKBB_02225_gR45f"],1
+sgrna.2724 ["Cowan_19%3A16314..16333"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2724"|"NIHHEKBB_02226_gR31f"],1
+sgrna.2725 ["Cowan_19%3A16400..16419"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2725"|"NIHHEKBB_02227_gR28f"],1
+sgrna.2726 ["Cowan_19%3A16587..16606"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2726"|"NIHHEKBB_02229_gR29f"],1
+sgrna.2727 ["Cowan_19%3A49321..49340"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2727"|"NIHHEKBB_02266_gR56f"],1
+sgrna.2728 ["Cowan_19%3A49547..49566"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2728"|"NIHHEKBB_02269_gR36f"],1
+sgrna.2729 ["Cowan_23%3A38107..38126"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2729"|"NIHHEKBB_02453_gR32r"],1
+sgrna.2730 ["Cowan_24%3A524..543"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2730"|"NIHHEKBB_02461_gR10r"],1
+sgrna.2731 ["Cowan_30%3A412..431"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2731"|"NIHHEKBB_02628_gR121r"],1
+sgrna.2732 ["Cowan_35%3A278..297"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2732"|"NIHHEKBB_02707_gR130r"],1
+sgrna.2733 ["Cowan_52%3A1049..1068"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2733"|"NIHHEKBB_02799_gR232f"],1
+sgrna.2734 ["Cowan_52%3A1316..1335"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2734"|"NIHHEKBB_02800_gR240f"],1
+sgrna.2735 ["Cowan_54%3A311..330"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2735"|"NIHHEKBB_02808_gR44f"],1
+sgrna.2736 ["Cowan_54%3A389..408"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2736"|"NIHHEKBB_02809_gR29f"],1
+sgrna.2737 ["Cowan_54%3A508..527"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2737"|"NIHHEKBB_02810_gR66f"],1
+sgrna.2738 ["Cowan_54%3A617..636"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2738"|"NIHHEKBB_02811_gR82f"],1
+sgrna.2739 ["Cowan_54%3A675..694"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2739"|"NIHHEKBB_02812_gR41f"],1
+sgrna.2740 ["Cowan_2%3A170481..170500"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2740"|"NIHHEKBB_02854_gR37r"],1
+sgrna.2741 ["Cowan_35%3A6343..6362"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2741"|"NIHHEKBB_02857_gR46r"],1
+sgrna.2742 ["Cowan_26%3A1040..1059"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2742"|"NIHHEKBB_00531_gR203f"],1
+sgrna.2743 ["Cowan_79%3A129..148"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2743"|"NIHHEKBB_00532_gR23r"],1
+sgrna.2744 ["Cowan_13%3A49790..49809"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2744"|"NIHHEKBB_01917_gR31r"],1
+sgrna.2745 ["Cowan_57%3A764..783"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2745"|"NIHHEKBB_02203_gR98f"],1
+sgrna.2746 ["Cowan_27%3A184..203"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2746"|"NIHHEKBB_02225_gR45f"],1
+sgrna.2747 ["Cowan_19%3A49376..49395"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2747"|"NIHHEKBB_02226_gR31f"],1
+sgrna.2748 ["Cowan_19%3A49709..49728"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2748"|"NIHHEKBB_02227_gR28f"],1
+sgrna.2749 ["Cowan_19%3A49886..49905"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2749"|"NIHHEKBB_02229_gR29f"],1
+sgrna.2750 ["Cowan_24%3A453..472"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2750"|"NIHHEKBB_02266_gR56f"],1
+sgrna.2751 ["Cowan_24%3A390..409"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2751"|"NIHHEKBB_02269_gR36f"],1
+sgrna.2752 ["Cowan_43%3A67..86"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2752"|"NIHHEKBB_02453_gR32r"],1
+sgrna.2753 ["Cowan_54%3A864..883"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2753"|"NIHHEKBB_02461_gR10r"],1
+sgrna.2754 ["Cowan_31%3A103..122"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2754"|"NIHHEKBB_02628_gR121r"],1
+sgrna.2755 ["Cowan_36%3A5362..5381"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2755"|"NIHHEKBB_02707_gR130r"],1
+sgrna.2756 ["Cowan_56%3A816..835"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2756"|"NIHHEKBB_02799_gR232f"],1
+sgrna.2757 ["Cowan_56%3A549..568"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2757"|"NIHHEKBB_02800_gR240f"],1
+sgrna.2758 ["Cowan_67%3A308..327"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2758"|"NIHHEKBB_02808_gR44f"],1
+sgrna.2759 ["Cowan_55%3A683..702"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2759"|"NIHHEKBB_02809_gR29f"],1
+sgrna.2760 ["Cowan_55%3A550..569"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2760"|"NIHHEKBB_02810_gR66f"],1
+sgrna.2761 ["Cowan_55%3A454..473"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2761"|"NIHHEKBB_02811_gR82f"],1
+sgrna.2762 ["Cowan_55%3A399..418"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2762"|"NIHHEKBB_02812_gR41f"],1
+sgrna.2763 ["Cowan_79%3A103..122"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2763"|"NIHHEKBB_02854_gR37r"],1
+sgrna.2764 ["Cowan_81%3A222..241"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2764"|"NIHHEKBB_02857_gR46r"],1
+sgrna.2765 ["Cowan_1%3A51..70"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2765"|"NIHHEKBB_00001_gR65f"],1
+sgrna.2766 ["Cowan_1%3A2638..2657"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2766"|"NIHHEKBB_00007_gR76r"],1
+sgrna.2767 ["Cowan_4%3A139189..139208"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2767"|"NIHHEKBB_01015_gR8r"],1
+sgrna.2768 ["Cowan_1%3A96790..96809"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2768"|"NIHHEKBB_01765_gR202f"],1
+sgrna.2769 ["Cowan_14%3A48163..48182"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2769"|"NIHHEKBB_01983_gR11r"],1
+sgrna.2770 ["Cowan_16%3A37..56"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2770"|"NIHHEKBB_02057_gR51f"],1
+sgrna.2771 ["Cowan_13%3A74686..74705"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2771"|"NIHHEKBB_02324_gR63f"],1
+sgrna.2772 ["Cowan_19%3A50023..50042"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2772"|"NIHHEKBB_02390_gR78f"],1
+sgrna.2773 ["Cowan_2%3A170409..170428"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2773"|"NIHHEKBB_02520_gR24r"],1
+sgrna.2774 ["Cowan_48%3A55..74"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2774"|"NIHHEKBB_02784_gR57r"],1
+sgrna.2775 ["Cowan_47%3A42..61"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2775"|"NIHHEKBB_02843_gR440f"],1
+sgrna.2776 ["Cowan_44%3A3002..3021"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2776"|"NIHHEKBB_02851_gR48r"],1
+sgrna.2777 ["Cowan_36%3A25..44"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2777"|"NIHHEKBB_02859_gR35r"],1
+sgrna.2778 ["Cowan_56%3A42..61"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2778"|"NIHHEKBB_02860_gR52r"],1
+sgrna.2779 ["Cowan_13%3A74481..74500"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2779"|"NIHHEKBB_00007_gR76r"],1
+sgrna.2780 ["Cowan_19%3A16173..16192"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2780"|"NIHHEKBB_01015_gR8r"],1
+sgrna.2781 ["Cowan_10%3A47044..47063"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2781"|"NIHHEKBB_01765_gR202f"],1
+sgrna.2782 ["Cowan_19%3A16094..16113"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2782"|"NIHHEKBB_01983_gR11r"],1
+sgrna.2783 ["Cowan_24%3A34527..34546"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2783"|"NIHHEKBB_02057_gR51f"],1
+sgrna.2784 ["Cowan_20%3A48488..48507"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2784"|"NIHHEKBB_02324_gR63f"],1
+sgrna.2785 ["Cowan_22%3A9366..9385"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2785"|"NIHHEKBB_02390_gR78f"],1
+sgrna.2786 ["Cowan_26%3A1094..1113"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2786"|"NIHHEKBB_02520_gR24r"],1
+sgrna.2787 ["Cowan_58%3A696..715"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2787"|"NIHHEKBB_02784_gR57r"],1
+sgrna.2788 ["Cowan_51%3A1560..1579"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2788"|"NIHHEKBB_02843_gR440f"],1
+sgrna.2789 ["Cowan_53%3A1277..1296"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2789"|"NIHHEKBB_02851_gR48r"],1
+sgrna.2790 ["Cowan_37%3A25..44"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2790"|"NIHHEKBB_02859_gR35r"],1
+sgrna.2791 ["Cowan_81%3A42..61"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2791"|"NIHHEKBB_02860_gR52r"],1
+sgrna.2792 ["Cowan_76%3A8..27"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2792"|"NIHHEKBB_00001_gR65f"],1
+sgrna.2793 ["Cowan_20%3A48151..48170"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2793"|"NIHHEKBB_00007_gR76r"],1
+sgrna.2794 ["Cowan_24%3A92..111"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2794"|"NIHHEKBB_01015_gR8r"],1
+sgrna.2795 ["Cowan_11%3A65870..65889"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2795"|"NIHHEKBB_01765_gR202f"],1
+sgrna.2796 ["Cowan_24%3A171..190"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2796"|"NIHHEKBB_01983_gR11r"],1
+sgrna.2797 ["Cowan_62%3A529..548"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2797"|"NIHHEKBB_02057_gR51f"],1
+sgrna.2798 ["Cowan_69%3A14..33"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2798"|"NIHHEKBB_02324_gR63f"],1
+sgrna.2799 ["Cowan_54%3A46..65"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2799"|"NIHHEKBB_02390_gR78f"],1
+sgrna.2800 ["Cowan_59%3A26..45"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2800"|"NIHHEKBB_02520_gR24r"],1
+sgrna.2801 ["Cowan_89%3A186..205"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2801"|"NIHHEKBB_02784_gR57r"],1
+sgrna.2802 ["Cowan_69%3A424..443"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2802"|"NIHHEKBB_02843_gR440f"],1
+sgrna.2803 ["Cowan_76%3A310..329"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2803"|"NIHHEKBB_02851_gR48r"],1
+sgrna.2804 ["Cowan_83%3A34..53"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2804"|"NIHHEKBB_02859_gR35r"],1
+sgrna.2805 ["Cowan_83%3A232..251"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2805"|"NIHHEKBB_02860_gR52r"],1
+sgrna.2806 ["Cowan_14%3A48267..48286"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2806"|"NIHHEKBB_01984_gR33r"],1
+sgrna.2807 ["Cowan_19%3A49667..49686"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2807"|"NIHHEKBB_02270_gR69f"],1
+sgrna.2808 ["Cowan_23%3A38237..38256"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2808"|"NIHHEKBB_02454_gR37r"],1
+sgrna.2809 ["Cowan_19%3A16505..16524"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2809"|"NIHHEKBB_01984_gR33r"],1
+sgrna.2810 ["Cowan_23%3A38300..38319"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2810"|"NIHHEKBB_02270_gR69f"],1
+sgrna.2811 ["Cowan_24%3A276..295"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2811"|"NIHHEKBB_02454_gR37r"],1
+sgrna.2812 ["Cowan_19%3A49816..49835"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2812"|"NIHHEKBB_01984_gR33r"],1
+sgrna.2813 ["Cowan_54%3A947..966"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2813"|"NIHHEKBB_02270_gR69f"],1
+sgrna.2814 ["Cowan_54%3A1010..1029"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2814"|"NIHHEKBB_02454_gR37r"],1
+sgrna.2815 ["Cowan_19%3A50120..50139"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2815"|"NIHHEKBB_01984_gR33r"],1
+sgrna.2816 ["Cowan_55%3A184..203"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2816"|"NIHHEKBB_02270_gR69f"],1
+sgrna.2817 ["Cowan_55%3A121..140"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2817"|"NIHHEKBB_02454_gR37r"],1
+sgrna.2818 ["Cowan_1%3A96652..96671"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2818"|"NIHHEKBB_00706_gR47r"],1
+sgrna.2819 ["Cowan_3%3A32110..32129"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2819"|"NIHHEKBB_00706_gR47r"],1
+sgrna.2820 ["Cowan_4%3A100273..100292"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2820"|"NIHHEKBB_00706_gR47r"],1
+sgrna.2821 ["Cowan_7%3A33873..33892"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2821"|"NIHHEKBB_00706_gR47r"],1
+sgrna.2822 ["Cowan_7%3A47161..47180"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2822"|"NIHHEKBB_00706_gR47r"],1
+sgrna.2823 ["Cowan_1%3A111313..111332"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2823"|"NIHHEKBB_00127_gR102f"],1
+sgrna.2824 ["Cowan_2%3A120600..120619"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2824"|"NIHHEKBB_00480_gR261f"],1
+sgrna.2825 ["Cowan_2%3A170622..170641"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2825"|"NIHHEKBB_00876_gR22r"],1
+sgrna.2826 ["Cowan_2%3A170579..170598"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2826"|"NIHHEKBB_01279_gR207f"],1
+sgrna.2827 ["Cowan_2%3A120563..120582"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2827"|"NIHHEKBB_02316_gR168f"],1
+sgrna.2828 ["Cowan_4%3A45752..45771"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2828"|"NIHHEKBB_00127_gR102f"],1
+sgrna.2829 ["Cowan_3%3A194724..194743"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2829"|"NIHHEKBB_00480_gR261f"],1
+sgrna.2830 ["Cowan_4%3A19..38"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2830"|"NIHHEKBB_00876_gR22r"],1
+sgrna.2831 ["Cowan_3%3A28768..28787"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2831"|"NIHHEKBB_01279_gR207f"],1
+sgrna.2832 ["Cowan_3%3A194761..194780"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2832"|"NIHHEKBB_02316_gR168f"],1
+sgrna.2833 ["Cowan_9%3A50429..50448"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2833"|"NIHHEKBB_00127_gR102f"],1
+sgrna.2834 ["Cowan_3%3A65016..65035"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2834"|"NIHHEKBB_00480_gR261f"],1
+sgrna.2835 ["Cowan_8%3A110367..110386"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2835"|"NIHHEKBB_00876_gR22r"],1
+sgrna.2836 ["Cowan_6%3A136502..136521"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2836"|"NIHHEKBB_01279_gR207f"],1
+sgrna.2837 ["Cowan_7%3A46989..47008"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2837"|"NIHHEKBB_02316_gR168f"],1
+sgrna.2838 ["Cowan_12%3A62121..62140"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2838"|"NIHHEKBB_00127_gR102f"],1
+sgrna.2839 ["Cowan_7%3A47026..47045"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2839"|"NIHHEKBB_00480_gR261f"],1
+sgrna.2840 ["Cowan_11%3A82760..82779"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2840"|"NIHHEKBB_00876_gR22r"],1
+sgrna.2841 ["Cowan_26%3A1205..1224"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2841"|"NIHHEKBB_01279_gR207f"],1
+sgrna.2842 ["Cowan_15%3A52919..52938"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2842"|"NIHHEKBB_02316_gR168f"],1
+sgrna.2843 ["Cowan_14%3A3531..3550"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2843"|"NIHHEKBB_00127_gR102f"],1
+sgrna.2844 ["Cowan_15%3A52882..52901"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2844"|"NIHHEKBB_00480_gR261f"],1
+sgrna.2845 ["Cowan_15%3A19..38"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2845"|"NIHHEKBB_00876_gR22r"],1
+sgrna.2846 ["Cowan_64%3A226..245"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2846"|"NIHHEKBB_01279_gR207f"],1
+sgrna.2847 ["Cowan_20%3A40058..40077"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2847"|"NIHHEKBB_02316_gR168f"],1
+sgrna.2848 ["Cowan_21%3A39237..39256"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2848"|"NIHHEKBB_00127_gR102f"],1
+sgrna.2849 ["Cowan_20%3A31505..31524"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2849"|"NIHHEKBB_00480_gR261f"],1
+sgrna.2850 ["Cowan_64%3A127..146"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2850"|"NIHHEKBB_00876_gR22r"],1
+sgrna.2851 ["Cowan_79%3A5..24"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2851"|"NIHHEKBB_01279_gR207f"],1
+sgrna.2852 ["Cowan_79%3A195..214"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2852"|"NIHHEKBB_02316_gR168f"],1
+sgrna.2853 ["Cowan_51%3A51..70"|"Cowan_sgRNA_sorted.gff"|"sgRNA.2853"|"NIHHEKBB_00001_gR65f"],1
