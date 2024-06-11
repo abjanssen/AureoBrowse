@@ -323,16 +323,16 @@
           "type": "TrixTextSearchAdapter",
           "textSearchAdapterId": "Cowan_sgRNA_sorted.gff-index",
           "ixFilePath": {
-            "uri": "trix/Cowan_sgRNA_sorted.gff.ix",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "trix/Cowan_sgRNA_sorted.gff.ix"
           },
           "ixxFilePath": {
-            "uri": "trix/Cowan_sgRNA_sorted.gff.ixx",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "trix/Cowan_sgRNA_sorted.gff.ixx"
           },
           "metaFilePath": {
-            "uri": "trix/Cowan_sgRNA_sorted.gff_meta.json",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "trix/Cowan_sgRNA_sorted.gff_meta.json"
           },
           "assemblyNames": [
             "Cowan"
@@ -503,16 +503,16 @@
           "type": "TrixTextSearchAdapter",
           "textSearchAdapterId": "CI2136_sgRNA_sorted.gff-index",
           "ixFilePath": {
-            "uri": "trix/CI2136_sgRNA_sorted.gff.ix",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "trix/CI2136_sgRNA_sorted.gff.ix"
           },
           "ixxFilePath": {
-            "uri": "trix/CI2136_sgRNA_sorted.gff.ixx",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "trix/CI2136_sgRNA_sorted.gff.ixx"
           },
           "metaFilePath": {
-            "uri": "trix/CI2136_sgRNA_sorted.gff_meta.json",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "trix/CI2136_sgRNA_sorted.gff_meta.json"
           },
           "assemblyNames": [
             "CI2136"
@@ -683,16 +683,16 @@
           "type": "TrixTextSearchAdapter",
           "textSearchAdapterId": "NCTC83254_sgRNA_sorted.gff-index",
           "ixFilePath": {
-            "uri": "trix/NCTC83254_sgRNA_sorted.gff.ix",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "trix/NCTC83254_sgRNA_sorted.gff.ix"
           },
           "ixxFilePath": {
-            "uri": "trix/NCTC83254_sgRNA_sorted.gff.ixx",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "trix/NCTC83254_sgRNA_sorted.gff.ixx"
           },
           "metaFilePath": {
-            "uri": "trix/NCTC83254_sgRNA_sorted.gff_meta.json",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "trix/NCTC83254_sgRNA_sorted.gff_meta.json"
           },
           "assemblyNames": [
             "NCTC83254"
@@ -863,16 +863,16 @@
           "type": "TrixTextSearchAdapter",
           "textSearchAdapterId": "USA300_sgRNA_sorted.gff-index",
           "ixFilePath": {
-            "uri": "trix/USA300_sgRNA_sorted.gff.ix",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "trix/USA300_sgRNA_sorted.gff.ix"
           },
           "ixxFilePath": {
-            "uri": "trix/USA300_sgRNA_sorted.gff.ixx",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "trix/USA300_sgRNA_sorted.gff.ixx"
           },
           "metaFilePath": {
-            "uri": "trix/USA300_sgRNA_sorted.gff_meta.json",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "trix/USA300_sgRNA_sorted.gff_meta.json"
           },
           "assemblyNames": [
             "USA300"
@@ -956,7 +956,7 @@
       "hierarchicalTrackSelector": {
         "id": "hierarchicalTrackSelector",
         "type": "HierarchicalTrackSelectorWidget",
-        "view": "QVTZijjEP9n9QWbSoUo1o",
+        "view": "FHRdzTr3EISg7BZ46UDFJ",
         "faceted": {
           "filterText": "",
           "showSparse": false,
@@ -1026,7 +1026,7 @@
     },
     "minimized": false,
     "id": "HGyGmhbSgPclwODgMx7Yz",
-    "name": "AureuBrowse (v0.4)",
+    "name": "AureuBrowse (v0.5)",
     "margin": 0,
     "views": [
       {
