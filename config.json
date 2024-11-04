@@ -940,6 +940,572 @@
           "maxScore": 0.8
         }
       ]
+    },
+    {
+      "type": "SyntenyTrack",
+      "trackId": "Synteny_all_v_all",
+      "name": "Alignment with all genomes",
+      "assemblyNames": [
+        "Cowan",
+        "CI2136",
+        "NCTC83254",
+        "USA300"
+      ],
+      "category": [
+        "Genome characteristics",
+        "Alignment with AureoBrowse genomes"
+      ],
+      "adapter": {
+        "type": "PAFAdapter",
+        "assemblyNames": [
+          "Cowan",
+          "CI2136",
+          "NCTC83254",
+          "USA300"
+        ],
+        "pafLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/General/General_all_v_all_alignments.paf"
+        }
+      },
+      "displays": [
+        {
+          "type": "DotplotDisplay",
+          "displayId": "Synteny_all_v_all-DotplotDisplay"
+        },
+        {
+          "type": "LinearComparativeDisplay",
+          "displayId": "Synteny_all_v_all-LinearComparativeDisplay"
+        },
+        {
+          "type": "LinearSyntenyDisplay",
+          "displayId": "Synteny_all_v_all-LinearSyntenyDisplay"
+        },
+        {
+          "type": "LGVSyntenyDisplay",
+          "displayId": "Synteny_all_v_all-LGVSyntenyDisplay",
+          "height": 500
+        }
+      ],
+      "formatDetails": {
+        "feature": "jexl:{assemblyName: undefined, MashMap_mapping_quality:feature.mappingQual, Kmer_complexity_score:feature.kc, mappingQual:undefined, Identity:feature.id, id:undefined,  kc:undefined, syntenyId:undefined, identity:undefined, numMatches:undefined, blockLen:undefined, mate:{refName:mate.start}}"
+      }
+    },
+    {
+      "type": "SyntenyTrack",
+      "trackId": "Cowan_USA300_alignment",
+      "name": "Alignment with USA300",
+      "assemblyNames": [
+        "Cowan"
+      ],
+      "category": [
+        "Genome characteristics",
+        "Alignment with AureoBrowse genomes"
+      ],
+      "adapter": {
+        "type": "PAFAdapter",
+        "assemblyNames": [
+          "Cowan"
+        ],
+        "pafLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/Cowan/Cowan_USA300_alignment.paf"
+        }
+      },
+      "displays": [
+        {
+          "type": "DotplotDisplay",
+          "displayId": "Cowan_USA300_alignment-DotplotDisplay"
+        },
+        {
+          "type": "LinearComparativeDisplay",
+          "displayId": "Cowan_USA300_alignment-LinearComparativeDisplay"
+        },
+        {
+          "type": "LinearSyntenyDisplay",
+          "displayId": "Cowan_USA300_alignment-LinearSyntenyDisplay"
+        },
+        {
+          "type": "LGVSyntenyDisplay",
+          "displayId": "Cowan_USA300_alignment-LGVSyntenyDisplay"
+        }
+      ],
+      "formatDetails": {
+        "feature": "jexl:{assemblyName: undefined, MashMap_mapping_quality:feature.mappingQual, Kmer_complexity_score:feature.kc, mappingQual:undefined, Identity:feature.id, id:undefined,  kc:undefined, syntenyId:undefined, identity:undefined, numMatches:undefined, blockLen:undefined, mate:{refName:mate.start}}"
+      }
+    },
+    {
+      "type": "SyntenyTrack",
+      "trackId": "Cowan_CI2136_alignment",
+      "name": "Alignment with CI2136",
+      "assemblyNames": [
+        "Cowan"
+      ],
+      "category": [
+        "Genome characteristics",
+        "Alignment with AureoBrowse genomes"
+      ],
+      "adapter": {
+        "type": "PAFAdapter",
+        "assemblyNames": [
+          "Cowan"
+        ],
+        "pafLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/Cowan/Cowan_CI2136_alignment.paf"
+        }
+      },
+      "displays": [
+        {
+          "type": "DotplotDisplay",
+          "displayId": "Cowan_CI2136_alignment-DotplotDisplay"
+        },
+        {
+          "type": "LinearComparativeDisplay",
+          "displayId": "Cowan_CI2136_alignment-LinearComparativeDisplay"
+        },
+        {
+          "type": "LinearSyntenyDisplay",
+          "displayId": "Cowan_CI2136_alignment-LinearSyntenyDisplay"
+        },
+        {
+          "type": "LGVSyntenyDisplay",
+          "displayId": "Cowan_CI2136_alignment-LGVSyntenyDisplay"
+        }
+      ],
+      "formatDetails": {
+        "feature": "jexl:{assemblyName: undefined, MashMap_mapping_quality:feature.mappingQual, Kmer_complexity_score:feature.kc, mappingQual:undefined, Identity:feature.id, id:undefined,  kc:undefined, syntenyId:undefined, identity:undefined, numMatches:undefined, blockLen:undefined, mate:{refName:mate.start}}"
+      }
+    },
+    {
+      "type": "SyntenyTrack",
+      "trackId": "Cowan_NCTC83254_alignment",
+      "name": "Alignment with NCTC8325-4",
+      "assemblyNames": [
+        "Cowan"
+      ],
+      "category": [
+        "Genome characteristics",
+        "Alignment with AureoBrowse genomes"
+      ],
+      "adapter": {
+        "type": "PAFAdapter",
+        "assemblyNames": [
+          "Cowan"
+        ],
+        "pafLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/Cowan/Cowan_NCTC83254_alignment.paf"
+        }
+      },
+      "displays": [
+        {
+          "type": "DotplotDisplay",
+          "displayId": "Cowan_NCTC83254_alignment-DotplotDisplay"
+        },
+        {
+          "type": "LinearComparativeDisplay",
+          "displayId": "Cowan_NCTC83254_alignment-LinearComparativeDisplay"
+        },
+        {
+          "type": "LinearSyntenyDisplay",
+          "displayId": "Cowan_NCTC83254_alignment-LinearSyntenyDisplay"
+        },
+        {
+          "type": "LGVSyntenyDisplay",
+          "displayId": "Cowan_NCTC83254_alignment-LGVSyntenyDisplay"
+        }
+      ],
+      "formatDetails": {
+        "feature": "jexl:{assemblyName: undefined, MashMap_mapping_quality:feature.mappingQual, Kmer_complexity_score:feature.kc, mappingQual:undefined, Identity:feature.id, id:undefined,  kc:undefined, syntenyId:undefined, identity:undefined, numMatches:undefined, blockLen:undefined, mate:{refName:mate.start}}"
+      }
+    },
+    {
+      "type": "SyntenyTrack",
+      "trackId": "CI2136_USA300_alignment",
+      "name": "Alignment with USA300",
+      "assemblyNames": [
+        "CI2136"
+      ],
+      "category": [
+        "Genome characteristics",
+        "Alignment with AureoBrowse genomes"
+      ],
+      "adapter": {
+        "type": "PAFAdapter",
+        "assemblyNames": [
+          "CI2136"
+        ],
+        "pafLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/CI2136/CI2136_USA300_alignment.paf"
+        }
+      },
+      "displays": [
+        {
+          "type": "DotplotDisplay",
+          "displayId": "CI2136_USA300_alignment-DotplotDisplay"
+        },
+        {
+          "type": "LinearComparativeDisplay",
+          "displayId": "CI2136_USA300_alignment-LinearComparativeDisplay"
+        },
+        {
+          "type": "LinearSyntenyDisplay",
+          "displayId": "CI2136_USA300_alignment-LinearSyntenyDisplay"
+        },
+        {
+          "type": "LGVSyntenyDisplay",
+          "displayId": "CI2136_USA300_alignment-LGVSyntenyDisplay"
+        }
+      ],
+      "formatDetails": {
+        "feature": "jexl:{assemblyName: undefined, MashMap_mapping_quality:feature.mappingQual, Kmer_complexity_score:feature.kc, mappingQual:undefined, Identity:feature.id, id:undefined,  kc:undefined, syntenyId:undefined, identity:undefined, numMatches:undefined, blockLen:undefined, mate:{refName:mate.start}}"
+      }
+    },
+    {
+      "type": "SyntenyTrack",
+      "trackId": "CI2136_Cowan_alignment",
+      "name": "Alignment with Cowan",
+      "assemblyNames": [
+        "CI2136"
+      ],
+      "category": [
+        "Genome characteristics",
+        "Alignment with AureoBrowse genomes"
+      ],
+      "adapter": {
+        "type": "PAFAdapter",
+        "assemblyNames": [
+          "CI2136"
+        ],
+        "pafLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/CI2136/CI2136_Cowan_alignment.paf"
+        }
+      },
+      "displays": [
+        {
+          "type": "DotplotDisplay",
+          "displayId": "CI2136_Cowan_alignment-DotplotDisplay"
+        },
+        {
+          "type": "LinearComparativeDisplay",
+          "displayId": "CI2136_Cowan_alignment-LinearComparativeDisplay"
+        },
+        {
+          "type": "LinearSyntenyDisplay",
+          "displayId": "CI2136_Cowan_alignment-LinearSyntenyDisplay"
+        },
+        {
+          "type": "LGVSyntenyDisplay",
+          "displayId": "CI2136_Cowan_alignment-LGVSyntenyDisplay"
+        }
+      ],
+      "formatDetails": {
+        "feature": "jexl:{assemblyName: undefined, MashMap_mapping_quality:feature.mappingQual, Kmer_complexity_score:feature.kc, mappingQual:undefined, Identity:feature.id, id:undefined,  kc:undefined, syntenyId:undefined, identity:undefined, numMatches:undefined, blockLen:undefined, mate:{refName:mate.start}}"
+      }
+    },
+    {
+      "type": "SyntenyTrack",
+      "trackId": "CI2136_NCTC83254_alignment",
+      "name": "Alignment with NCTC8325-4",
+      "assemblyNames": [
+        "CI2136"
+      ],
+      "category": [
+        "Genome characteristics",
+        "Alignment with AureoBrowse genomes"
+      ],
+      "adapter": {
+        "type": "PAFAdapter",
+        "assemblyNames": [
+          "CI2136"
+        ],
+        "pafLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/CI2136/CI2136_NCTC83254_alignment.paf"
+        }
+      },
+      "displays": [
+        {
+          "type": "DotplotDisplay",
+          "displayId": "CI2136_NCTC83254_alignment-DotplotDisplay"
+        },
+        {
+          "type": "LinearComparativeDisplay",
+          "displayId": "CI2136_NCTC83254_alignment-LinearComparativeDisplay"
+        },
+        {
+          "type": "LinearSyntenyDisplay",
+          "displayId": "CI2136_NCTC83254_alignment-LinearSyntenyDisplay"
+        },
+        {
+          "type": "LGVSyntenyDisplay",
+          "displayId": "CI2136_NCTC83254_alignment-LGVSyntenyDisplay"
+        }
+      ],
+      "formatDetails": {
+        "feature": "jexl:{assemblyName: undefined, MashMap_mapping_quality:feature.mappingQual, Kmer_complexity_score:feature.kc, mappingQual:undefined, Identity:feature.id, id:undefined,  kc:undefined, syntenyId:undefined, identity:undefined, numMatches:undefined, blockLen:undefined, mate:{refName:mate.start}}"
+      }
+    },
+    {
+      "type": "SyntenyTrack",
+      "trackId": "NCTC83254_USA300_alignment",
+      "name": "Alignment with USA300",
+      "assemblyNames": [
+        "NCTC83254"
+      ],
+      "category": [
+        "Genome characteristics",
+        "Alignment with AureoBrowse genomes"
+      ],
+      "adapter": {
+        "type": "PAFAdapter",
+        "assemblyNames": [
+          "NCTC83254"
+        ],
+        "pafLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/NCTC83254/NCTC83254_USA300_alignment.paf"
+        }
+      },
+      "displays": [
+        {
+          "type": "DotplotDisplay",
+          "displayId": "NCTC83254_USA300_alignment-DotplotDisplay"
+        },
+        {
+          "type": "LinearComparativeDisplay",
+          "displayId": "NCTC83254_USA300_alignment-LinearComparativeDisplay"
+        },
+        {
+          "type": "LinearSyntenyDisplay",
+          "displayId": "NCTC83254_USA300_alignment-LinearSyntenyDisplay"
+        },
+        {
+          "type": "LGVSyntenyDisplay",
+          "displayId": "NCTC83254_USA300_alignment-LGVSyntenyDisplay"
+        }
+      ],
+      "formatDetails": {
+        "feature": "jexl:{assemblyName: undefined, MashMap_mapping_quality:feature.mappingQual, Kmer_complexity_score:feature.kc, mappingQual:undefined, Identity:feature.id, id:undefined,  kc:undefined, syntenyId:undefined, identity:undefined, numMatches:undefined, blockLen:undefined, mate:{refName:mate.start}}"
+      }
+    },
+    {
+      "type": "SyntenyTrack",
+      "trackId": "NCTC83254_Cowan_alignment",
+      "name": "Alignment with Cowan",
+      "assemblyNames": [
+        "NCTC83254"
+      ],
+      "category": [
+        "Genome characteristics",
+        "Alignment with AureoBrowse genomes"
+      ],
+      "adapter": {
+        "type": "PAFAdapter",
+        "assemblyNames": [
+          "NCTC83254"
+        ],
+        "pafLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/NCTC83254/NCTC83254_Cowan_alignment.paf"
+        }
+      },
+      "displays": [
+        {
+          "type": "DotplotDisplay",
+          "displayId": "NCTC83254_Cowan_alignment-DotplotDisplay"
+        },
+        {
+          "type": "LinearComparativeDisplay",
+          "displayId": "NCTC83254_Cowan_alignment-LinearComparativeDisplay"
+        },
+        {
+          "type": "LinearSyntenyDisplay",
+          "displayId": "NCTC83254_Cowan_alignment-LinearSyntenyDisplay"
+        },
+        {
+          "type": "LGVSyntenyDisplay",
+          "displayId": "NCTC83254_Cowan_alignment-LGVSyntenyDisplay"
+        }
+      ],
+      "formatDetails": {
+        "feature": "jexl:{assemblyName: undefined, MashMap_mapping_quality:feature.mappingQual, Kmer_complexity_score:feature.kc, mappingQual:undefined, Identity:feature.id, id:undefined,  kc:undefined, syntenyId:undefined, identity:undefined, numMatches:undefined, blockLen:undefined, mate:{refName:mate.start}}"
+      }
+    },
+    {
+      "type": "SyntenyTrack",
+      "trackId": "NCTC83254_CI2136_alignment",
+      "name": "Alignment with CI2136",
+      "assemblyNames": [
+        "NCTC83254"
+      ],
+      "category": [
+        "Genome characteristics",
+        "Alignment with AureoBrowse genomes"
+      ],
+      "adapter": {
+        "type": "PAFAdapter",
+        "assemblyNames": [
+          "NCTC83254"
+        ],
+        "pafLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/NCTC83254/NCTC83254_CI2136_alignment.paf"
+        }
+      },
+      "displays": [
+        {
+          "type": "DotplotDisplay",
+          "displayId": "NCTC83254_CI2136_alignment-DotplotDisplay"
+        },
+        {
+          "type": "LinearComparativeDisplay",
+          "displayId": "NCTC83254_CI2136_alignment-LinearComparativeDisplay"
+        },
+        {
+          "type": "LinearSyntenyDisplay",
+          "displayId": "NCTC83254_CI2136_alignment-LinearSyntenyDisplay"
+        },
+        {
+          "type": "LGVSyntenyDisplay",
+          "displayId": "NCTC83254_CI2136_alignment-LGVSyntenyDisplay"
+        }
+      ],
+      "formatDetails": {
+        "feature": "jexl:{assemblyName: undefined, MashMap_mapping_quality:feature.mappingQual, Kmer_complexity_score:feature.kc, mappingQual:undefined, Identity:feature.id, id:undefined,  kc:undefined, syntenyId:undefined, identity:undefined, numMatches:undefined, blockLen:undefined, mate:{refName:mate.start}}"
+      }
+    },
+    {
+      "type": "SyntenyTrack",
+      "trackId": "USA300_NCTC83254_alignment",
+      "name": "Alignment with NCTC83254",
+      "assemblyNames": [
+        "USA300"
+      ],
+      "category": [
+        "Genome characteristics",
+        "Alignment with AureoBrowse genomes"
+      ],
+      "adapter": {
+        "type": "PAFAdapter",
+        "assemblyNames": [
+          "USA300"
+        ],
+        "pafLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/USA300/USA300_NCTC83254_alignment.paf"
+        }
+      },
+      "displays": [
+        {
+          "type": "DotplotDisplay",
+          "displayId": "USA300_NCTC83254_alignment-DotplotDisplay"
+        },
+        {
+          "type": "LinearComparativeDisplay",
+          "displayId": "USA300_NCTC83254_alignment-LinearComparativeDisplay"
+        },
+        {
+          "type": "LinearSyntenyDisplay",
+          "displayId": "USA300_NCTC83254_alignment-LinearSyntenyDisplay"
+        },
+        {
+          "type": "LGVSyntenyDisplay",
+          "displayId": "USA300_NCTC83254_alignment-LGVSyntenyDisplay"
+        }
+      ],
+      "formatDetails": {
+        "feature": "jexl:{assemblyName: undefined, MashMap_mapping_quality:feature.mappingQual, Kmer_complexity_score:feature.kc, mappingQual:undefined, Identity:feature.id, id:undefined,  kc:undefined, syntenyId:undefined, identity:undefined, numMatches:undefined, blockLen:undefined, mate:{refName:mate.start}}"
+      }
+    },
+    {
+      "type": "SyntenyTrack",
+      "trackId": "USA300_Cowan_alignment",
+      "name": "Alignment with Cowan",
+      "assemblyNames": [
+        "USA300"
+      ],
+      "category": [
+        "Genome characteristics",
+        "Alignment with AureoBrowse genomes"
+      ],
+      "adapter": {
+        "type": "PAFAdapter",
+        "assemblyNames": [
+          "USA300"
+        ],
+        "pafLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/USA300/USA300_Cowan_alignment.paf"
+        }
+      },
+      "displays": [
+        {
+          "type": "DotplotDisplay",
+          "displayId": "USA300_Cowan_alignment-DotplotDisplay"
+        },
+        {
+          "type": "LinearComparativeDisplay",
+          "displayId": "USA300_Cowan_alignment-LinearComparativeDisplay"
+        },
+        {
+          "type": "LinearSyntenyDisplay",
+          "displayId": "USA300_Cowan_alignment-LinearSyntenyDisplay"
+        },
+        {
+          "type": "LGVSyntenyDisplay",
+          "displayId": "USA300_Cowan_alignment-LGVSyntenyDisplay"
+        }
+      ],
+      "formatDetails": {
+        "feature": "jexl:{assemblyName: undefined, MashMap_mapping_quality:feature.mappingQual, Kmer_complexity_score:feature.kc, mappingQual:undefined, Identity:feature.id, id:undefined,  kc:undefined, syntenyId:undefined, identity:undefined, numMatches:undefined, blockLen:undefined, mate:{refName:mate.start}}"
+      }
+    },
+    {
+      "type": "SyntenyTrack",
+      "trackId": "USA300_CI2136_alignment",
+      "name": "Alignment with CI2136",
+      "assemblyNames": [
+        "USA300"
+      ],
+      "category": [
+        "Genome characteristics",
+        "Alignment with AureoBrowse genomes"
+      ],
+      "adapter": {
+        "type": "PAFAdapter",
+        "assemblyNames": [
+          "USA300"
+        ],
+        "pafLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/USA300/USA300_CI2136_alignment.paf"
+        }
+      },
+      "displays": [
+        {
+          "type": "DotplotDisplay",
+          "displayId": "USA300_CI2136_alignment-DotplotDisplay"
+        },
+        {
+          "type": "LinearComparativeDisplay",
+          "displayId": "USA300_CI2136_alignment-LinearComparativeDisplay"
+        },
+        {
+          "type": "LinearSyntenyDisplay",
+          "displayId": "USA300_CI2136_alignment-LinearSyntenyDisplay"
+        },
+        {
+          "type": "LGVSyntenyDisplay",
+          "displayId": "USA300_CI2136_alignment-LGVSyntenyDisplay"
+        }
+      ],
+      "formatDetails": {
+        "feature": "jexl:{assemblyName: undefined, MashMap_mapping_quality:feature.mappingQual, Kmer_complexity_score:feature.kc, mappingQual:undefined, Identity:feature.id, id:undefined,  kc:undefined, syntenyId:undefined, identity:undefined, numMatches:undefined, blockLen:undefined, mate:{refName:mate.start}}"
+      }
     }
   ],
   "internetAccounts": [],
@@ -1026,7 +1592,7 @@
     },
     "minimized": false,
     "id": "HGyGmhbSgPclwODgMx7Yz",
-    "name": "AureoBrowse (v0.18)",
+    "name": "AureoBrowse (v0.19)",
     "margin": 0,
     "views": [
       {
@@ -1086,6 +1652,7 @@
         "showGridlines": true,
         "highlight": [],
         "colorByCDS": false,
+        "showTrackOutlines": true,
         "showBookmarkHighlights": true,
         "showBookmarkLabels": true
       },
@@ -1146,6 +1713,7 @@
         "showGridlines": true,
         "highlight": [],
         "colorByCDS": false,
+        "showTrackOutlines": true,
         "showBookmarkHighlights": true,
         "showBookmarkLabels": true
       },
@@ -1207,6 +1775,7 @@
         "showGridlines": true,
         "highlight": [],
         "colorByCDS": false,
+        "showTrackOutlines": true,
         "showBookmarkHighlights": true,
         "showBookmarkLabels": true
       },
@@ -1267,8 +1836,64 @@
         "showGridlines": true,
         "highlight": [],
         "colorByCDS": false,
+        "showTrackOutlines": true,
         "showBookmarkHighlights": true,
         "showBookmarkLabels": true
+      },
+      {
+        "id": "Vu9cneJ7dyQrsJnGQcmvm",
+        "displayName": "Linear synteny alignment view",
+        "minimized": true,
+        "type": "LinearSyntenyView",
+        "trackSelectorType": "hierarchical",
+        "showIntraviewLinks": true,
+        "interactToggled": false,
+        "levels": [
+          {
+            "id": "TYmzxrSWGUVvwqzonZ7KF",
+            "type": "LinearSyntenyViewHelper",
+            "tracks": [],
+            "height": 100,
+            "level": 0
+          }
+        ],
+        "views": [],
+        "viewTrackConfigs": [],
+        "drawCIGAR": true,
+        "drawCurves": false
+      },
+      {
+        "id": "j-zih9vzUMvBjzxZ2IVHw",
+        "displayName": "Dotplot alignment view",
+        "minimized": true,
+        "type": "DotplotView",
+        "height": 600,
+        "borderSize": 20,
+        "tickSize": 5,
+        "vtextRotation": 0,
+        "htextRotation": -90,
+        "fontSize": 15,
+        "trackSelectorType": "hierarchical",
+        "assemblyNames": [],
+        "drawCigar": true,
+        "hview": {
+          "id": "jlPktr7-ZfQl9iRsHNwjy",
+          "displayedRegions": [],
+          "bpPerPx": 0.02,
+          "offsetPx": -1053,
+          "interRegionPaddingWidth": 0,
+          "minimumBlockWidth": 0
+        },
+        "vview": {
+          "id": "0LrZdqylvpOB-KiG2n1KZ",
+          "displayedRegions": [],
+          "bpPerPx": 0.02,
+          "offsetPx": -275,
+          "interRegionPaddingWidth": 0,
+          "minimumBlockWidth": 0
+        },
+        "tracks": [],
+        "viewTrackConfigs": []
       }
     ],
     "sessionTracks": [],
@@ -1276,7 +1901,7 @@
     "temporaryAssemblies": [],
     "connectionInstances": [],
     "sessionConnections": [],
-    "focusedViewId": "FHRdzTr3EISg7BZ46UDFJ",
+    "focusedViewId": "j-zih9vzUMvBjzxZ2IVHw",
     "sessionPlugins": []
   }
 }
