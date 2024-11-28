@@ -66,12 +66,6 @@
       }
     },
     {
-      "name": "QVScore",
-      "umdLoc": {
-        "uri": "plugins/QVScore.js"
-      }
-    },
-    {
       "name": "sgRNATarget",
       "umdLoc": {
         "uri": "plugins/sgRNATarget.js"
@@ -1592,7 +1586,7 @@
     },
     "minimized": false,
     "id": "HGyGmhbSgPclwODgMx7Yz",
-    "name": "AureoBrowse (v0.20)",
+    "name": "AureoBrowse (v0.21)",
     "margin": 0,
     "views": [
       {
