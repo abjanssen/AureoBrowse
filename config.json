@@ -30,6 +30,12 @@
   },
   "plugins": [
     {
+      "name": "ReferenceContactsWidget",
+      "esmLoc": {
+        "uri": "plugins/ReferenceContactsWidget.js"
+      }
+    },    
+    {
       "name": "NucContent",
       "umdLoc": {
         "uri": "plugins/jbrowsepluginnuccontent.umd.production.min.js"
@@ -1586,7 +1592,7 @@
     },
     "minimized": false,
     "id": "HGyGmhbSgPclwODgMx7Yz",
-    "name": "AureoBrowse (v0.30)",
+    "name": "AureoBrowse (v0.31)",
     "margin": 0,
     "views": [
       {
