@@ -156,19 +156,19 @@
       }
     },
     {
-      "name": "CI2136",
+      "name": "CL2136",
       "sequence": {
         "type": "ReferenceSequenceTrack",
-        "trackId": "CI2136-ReferenceSequenceTrack",
+        "trackId": "CL2136-ReferenceSequenceTrack",
         "adapter": {
           "type": "IndexedFastaAdapter",
           "fastaLocation": {
             "locationType": "UriLocation",
-            "uri": "./data/CI2136/CI2136.fna"
+            "uri": "./data/CL2136/CL2136.fna"
           },
           "faiLocation": {
             "locationType": "UriLocation",
-            "uri": "./data/CI2136/CI2136.fna.fai"
+            "uri": "./data/CL2136/CL2136.fna.fai"
           },
           "metadataLocation": {
             "locationType": "UriLocation",
@@ -178,11 +178,11 @@
         "displays": [
           {
             "type": "LinearReferenceSequenceDisplay",
-            "displayId": "CI2136-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
+            "displayId": "CL2136-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
           },
           {
             "type": "LinearGCContentDisplay",
-            "displayId": "CI2136-ReferenceSequenceTrack-LinearGCContentDisplay"
+            "displayId": "CL2136-ReferenceSequenceTrack-LinearGCContentDisplay"
           }
         ]
       }
@@ -403,10 +403,10 @@
     },
     {
       "type": "FeatureTrack",
-      "trackId": "CI2136_sorted.gff",
+      "trackId": "CL2136_sorted.gff",
       "name": "Coding features",
       "assemblyNames": [
-        "CI2136"
+        "CL2136"
       ],
       "category": [
         "Annotation"
@@ -415,40 +415,40 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/CI2136/CI2136_sorted.gff.gz"
+          "uri": "data/CL2136/CL2136_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/CI2136/CI2136_sorted.gff.gz.tbi"
+            "uri": "data/CL2136/CL2136_sorted.gff.gz.tbi"
           }
         }
       },
       "textSearching": {
         "textSearchAdapter": {
           "type": "TrixTextSearchAdapter",
-          "textSearchAdapterId": "CI2136_sorted.gff-index",
+          "textSearchAdapterId": "CL2136_sorted.gff-index",
           "ixFilePath": {
             "locationType": "UriLocation",
-            "uri": "trix/CI2136_sorted.gff.ix"
+            "uri": "trix/CL2136_sorted.gff.ix"
           },
           "ixxFilePath": {
             "locationType": "UriLocation",
-            "uri": "trix/CI2136_sorted.gff.ixx"
+            "uri": "trix/CL2136_sorted.gff.ixx"
           },
           "metaFilePath": {
             "locationType": "UriLocation",
-            "uri": "trix/CI2136_sorted.gff_meta.json"
+            "uri": "trix/CL2136_sorted.gff_meta.json"
           },
           "assemblyNames": [
-            "CI2136"
+            "CL2136"
           ]
         }
       },
       "displays": [
         {
           "type": "LinearBasicDisplay",
-          "displayId": "CI2136_sorted.gff-LinearBasicDisplay",
+          "displayId": "CL2136_sorted.gff-LinearBasicDisplay",
           "height": 200,
           "mouseover": "jexl:italics(get(feature,'name')) || get(feature,'locus_tag')",
           "renderer": {
@@ -461,7 +461,7 @@
         },
         {
           "type": "LinearArcDisplay",
-          "displayId": "CI2136_sorted.gff-LinearArcDisplay",
+          "displayId": "CL2136_sorted.gff-LinearArcDisplay",
           "height": 200
         }
       ],
@@ -472,10 +472,10 @@
     },
     {
       "type": "FeatureTrack",
-      "trackId": "CI2136_sgRNA_sorted.gff",
+      "trackId": "CL2136_sgRNA_sorted.gff",
       "name": "sgRNAs",
       "assemblyNames": [
-        "CI2136"
+        "CL2136"
       ],
       "category": [
         "CRISPRi"
@@ -484,12 +484,12 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/CI2136/CI2136_sgRNA_sorted.gff.gz"
+          "uri": "data/CL2136/CL2136_sgRNA_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/CI2136/CI2136_sgRNA_sorted.gff.gz.tbi"
+            "uri": "data/CL2136/CL2136_sgRNA_sorted.gff.gz.tbi"
           }
         }
       },
@@ -501,28 +501,28 @@
         ],
         "textSearchAdapter": {
           "type": "TrixTextSearchAdapter",
-          "textSearchAdapterId": "CI2136_sgRNA_sorted.gff-index",
+          "textSearchAdapterId": "CL2136_sgRNA_sorted.gff-index",
           "ixFilePath": {
             "locationType": "UriLocation",
-            "uri": "trix/CI2136_sgRNA_sorted.gff.ix"
+            "uri": "trix/CL2136_sgRNA_sorted.gff.ix"
           },
           "ixxFilePath": {
             "locationType": "UriLocation",
-            "uri": "trix/CI2136_sgRNA_sorted.gff.ixx"
+            "uri": "trix/CL2136_sgRNA_sorted.gff.ixx"
           },
           "metaFilePath": {
             "locationType": "UriLocation",
-            "uri": "trix/CI2136_sgRNA_sorted.gff_meta.json"
+            "uri": "trix/CL2136_sgRNA_sorted.gff_meta.json"
           },
           "assemblyNames": [
-            "CI2136"
+            "CL2136"
           ]
         }
       },
       "displays": [
         {
           "type": "LinearBasicDisplay",
-          "displayId": "CI2136_sgRNA_sorted.gff-LinearBasicDisplay",
+          "displayId": "CL2136_sgRNA_sorted.gff-LinearBasicDisplay",
           "mouseover": "jexl:sgrnatarget(get(feature,'target_gene_name'))",
           "renderer": {
             "type": "SvgFeatureRenderer",
@@ -531,7 +531,7 @@
         },
         {
           "type": "LinearArcDisplay",
-          "displayId": "CI2136_sgRNA_sorted.gff-LinearArcDisplay"
+          "displayId": "CL2136_sgRNA_sorted.gff-LinearArcDisplay"
         }
       ],
       "formatDetails": {
@@ -540,10 +540,10 @@
     },
     {
       "type": "NucContentTrack",
-      "trackId": "gc_content_CI2136",
+      "trackId": "gc_content_CL2136",
       "name": "GC content",
       "assemblyNames": [
-        "CI2136"
+        "CL2136"
       ],
       "category": [
         "Genome Characteristics"
@@ -554,11 +554,11 @@
           "type": "BgzipFastaAdapter",
           "fastaLocation": {
             "locationType": "UriLocation",
-            "uri": "data/CI2136/CI2136.fna.gz"
+            "uri": "data/CL2136/CL2136.fna.gz"
           },
           "faiLocation": {
             "locationType": "UriLocation",
-            "uri": "data/CI2136/CI2136.fna.gz.fai"
+            "uri": "data/CL2136/CL2136.fna.gz.fai"
           },
           "metadataLocation": {
             "locationType": "UriLocation",
@@ -566,7 +566,7 @@
           },
           "gziLocation": {
             "locationType": "UriLocation",
-            "uri": "data/CI2136/CI2136.fna.gz.gzi"
+            "uri": "data/CL2136/CL2136.fna.gz.gzi"
           }
         },
         "windowSize": 200,
@@ -575,7 +575,7 @@
       "displays": [
         {
           "type": "NucContentDisplay",
-          "displayId": "gc_content_dynamic_CI2136-NucContentDisplay",
+          "displayId": "gc_content_dynamic_CL2136-NucContentDisplay",
           "minScore": 0,
           "maxScore": 0.8
         }
@@ -947,7 +947,7 @@
       "name": "Alignment with all genomes",
       "assemblyNames": [
         "Cowan",
-        "CI2136",
+        "CL2136",
         "NCTC83254",
         "USA300"
       ],
@@ -959,7 +959,7 @@
         "type": "PAFAdapter",
         "assemblyNames": [
           "Cowan",
-          "CI2136",
+          "CL2136",
           "NCTC83254",
           "USA300"
         ],
@@ -1036,8 +1036,8 @@
     },
     {
       "type": "SyntenyTrack",
-      "trackId": "Cowan_CI2136_alignment",
-      "name": "Alignment with CI2136",
+      "trackId": "Cowan_CL2136_alignment",
+      "name": "Alignment with CL2136",
       "assemblyNames": [
         "Cowan"
       ],
@@ -1052,25 +1052,25 @@
         ],
         "pafLocation": {
           "locationType": "UriLocation",
-          "uri": "./data/Cowan/Cowan_CI2136_alignment.paf"
+          "uri": "./data/Cowan/Cowan_CL2136_alignment.paf"
         }
       },
       "displays": [
         {
           "type": "DotplotDisplay",
-          "displayId": "Cowan_CI2136_alignment-DotplotDisplay"
+          "displayId": "Cowan_CL2136_alignment-DotplotDisplay"
         },
         {
           "type": "LinearComparativeDisplay",
-          "displayId": "Cowan_CI2136_alignment-LinearComparativeDisplay"
+          "displayId": "Cowan_CL2136_alignment-LinearComparativeDisplay"
         },
         {
           "type": "LinearSyntenyDisplay",
-          "displayId": "Cowan_CI2136_alignment-LinearSyntenyDisplay"
+          "displayId": "Cowan_CL2136_alignment-LinearSyntenyDisplay"
         },
         {
           "type": "LGVSyntenyDisplay",
-          "displayId": "Cowan_CI2136_alignment-LGVSyntenyDisplay"
+          "displayId": "Cowan_CL2136_alignment-LGVSyntenyDisplay"
         }
       ],
       "formatDetails": {
@@ -1122,10 +1122,10 @@
     },
     {
       "type": "SyntenyTrack",
-      "trackId": "CI2136_USA300_alignment",
+      "trackId": "CL2136_USA300_alignment",
       "name": "Alignment with USA300",
       "assemblyNames": [
-        "CI2136"
+        "CL2136"
       ],
       "category": [
         "Genome characteristics",
@@ -1134,29 +1134,29 @@
       "adapter": {
         "type": "PAFAdapter",
         "assemblyNames": [
-          "CI2136"
+          "CL2136"
         ],
         "pafLocation": {
           "locationType": "UriLocation",
-          "uri": "./data/CI2136/CI2136_USA300_alignment.paf"
+          "uri": "./data/CL2136/CL2136_USA300_alignment.paf"
         }
       },
       "displays": [
         {
           "type": "DotplotDisplay",
-          "displayId": "CI2136_USA300_alignment-DotplotDisplay"
+          "displayId": "CL2136_USA300_alignment-DotplotDisplay"
         },
         {
           "type": "LinearComparativeDisplay",
-          "displayId": "CI2136_USA300_alignment-LinearComparativeDisplay"
+          "displayId": "CL2136_USA300_alignment-LinearComparativeDisplay"
         },
         {
           "type": "LinearSyntenyDisplay",
-          "displayId": "CI2136_USA300_alignment-LinearSyntenyDisplay"
+          "displayId": "CL2136_USA300_alignment-LinearSyntenyDisplay"
         },
         {
           "type": "LGVSyntenyDisplay",
-          "displayId": "CI2136_USA300_alignment-LGVSyntenyDisplay"
+          "displayId": "CL2136_USA300_alignment-LGVSyntenyDisplay"
         }
       ],
       "formatDetails": {
@@ -1165,10 +1165,10 @@
     },
     {
       "type": "SyntenyTrack",
-      "trackId": "CI2136_Cowan_alignment",
+      "trackId": "CL2136_Cowan_alignment",
       "name": "Alignment with Cowan",
       "assemblyNames": [
-        "CI2136"
+        "CL2136"
       ],
       "category": [
         "Genome characteristics",
@@ -1177,29 +1177,29 @@
       "adapter": {
         "type": "PAFAdapter",
         "assemblyNames": [
-          "CI2136"
+          "CL2136"
         ],
         "pafLocation": {
           "locationType": "UriLocation",
-          "uri": "./data/CI2136/CI2136_Cowan_alignment.paf"
+          "uri": "./data/CL2136/CL2136_Cowan_alignment.paf"
         }
       },
       "displays": [
         {
           "type": "DotplotDisplay",
-          "displayId": "CI2136_Cowan_alignment-DotplotDisplay"
+          "displayId": "CL2136_Cowan_alignment-DotplotDisplay"
         },
         {
           "type": "LinearComparativeDisplay",
-          "displayId": "CI2136_Cowan_alignment-LinearComparativeDisplay"
+          "displayId": "CL2136_Cowan_alignment-LinearComparativeDisplay"
         },
         {
           "type": "LinearSyntenyDisplay",
-          "displayId": "CI2136_Cowan_alignment-LinearSyntenyDisplay"
+          "displayId": "CL2136_Cowan_alignment-LinearSyntenyDisplay"
         },
         {
           "type": "LGVSyntenyDisplay",
-          "displayId": "CI2136_Cowan_alignment-LGVSyntenyDisplay"
+          "displayId": "CL2136_Cowan_alignment-LGVSyntenyDisplay"
         }
       ],
       "formatDetails": {
@@ -1208,10 +1208,10 @@
     },
     {
       "type": "SyntenyTrack",
-      "trackId": "CI2136_NCTC83254_alignment",
+      "trackId": "CL2136_NCTC83254_alignment",
       "name": "Alignment with NCTC8325-4",
       "assemblyNames": [
-        "CI2136"
+        "CL2136"
       ],
       "category": [
         "Genome characteristics",
@@ -1220,29 +1220,29 @@
       "adapter": {
         "type": "PAFAdapter",
         "assemblyNames": [
-          "CI2136"
+          "CL2136"
         ],
         "pafLocation": {
           "locationType": "UriLocation",
-          "uri": "./data/CI2136/CI2136_NCTC83254_alignment.paf"
+          "uri": "./data/CL2136/CL2136_NCTC83254_alignment.paf"
         }
       },
       "displays": [
         {
           "type": "DotplotDisplay",
-          "displayId": "CI2136_NCTC83254_alignment-DotplotDisplay"
+          "displayId": "CL2136_NCTC83254_alignment-DotplotDisplay"
         },
         {
           "type": "LinearComparativeDisplay",
-          "displayId": "CI2136_NCTC83254_alignment-LinearComparativeDisplay"
+          "displayId": "CL2136_NCTC83254_alignment-LinearComparativeDisplay"
         },
         {
           "type": "LinearSyntenyDisplay",
-          "displayId": "CI2136_NCTC83254_alignment-LinearSyntenyDisplay"
+          "displayId": "CL2136_NCTC83254_alignment-LinearSyntenyDisplay"
         },
         {
           "type": "LGVSyntenyDisplay",
-          "displayId": "CI2136_NCTC83254_alignment-LGVSyntenyDisplay"
+          "displayId": "CL2136_NCTC83254_alignment-LGVSyntenyDisplay"
         }
       ],
       "formatDetails": {
@@ -1337,8 +1337,8 @@
     },
     {
       "type": "SyntenyTrack",
-      "trackId": "NCTC83254_CI2136_alignment",
-      "name": "Alignment with CI2136",
+      "trackId": "NCTC83254_CL2136_alignment",
+      "name": "Alignment with CL2136",
       "assemblyNames": [
         "NCTC83254"
       ],
@@ -1353,25 +1353,25 @@
         ],
         "pafLocation": {
           "locationType": "UriLocation",
-          "uri": "./data/NCTC83254/NCTC83254_CI2136_alignment.paf"
+          "uri": "./data/NCTC83254/NCTC83254_CL2136_alignment.paf"
         }
       },
       "displays": [
         {
           "type": "DotplotDisplay",
-          "displayId": "NCTC83254_CI2136_alignment-DotplotDisplay"
+          "displayId": "NCTC83254_CL2136_alignment-DotplotDisplay"
         },
         {
           "type": "LinearComparativeDisplay",
-          "displayId": "NCTC83254_CI2136_alignment-LinearComparativeDisplay"
+          "displayId": "NCTC83254_CL2136_alignment-LinearComparativeDisplay"
         },
         {
           "type": "LinearSyntenyDisplay",
-          "displayId": "NCTC83254_CI2136_alignment-LinearSyntenyDisplay"
+          "displayId": "NCTC83254_CL2136_alignment-LinearSyntenyDisplay"
         },
         {
           "type": "LGVSyntenyDisplay",
-          "displayId": "NCTC83254_CI2136_alignment-LGVSyntenyDisplay"
+          "displayId": "NCTC83254_CL2136_alignment-LGVSyntenyDisplay"
         }
       ],
       "formatDetails": {
@@ -1466,8 +1466,8 @@
     },
     {
       "type": "SyntenyTrack",
-      "trackId": "USA300_CI2136_alignment",
-      "name": "Alignment with CI2136",
+      "trackId": "USA300_CL2136_alignment",
+      "name": "Alignment with CL2136",
       "assemblyNames": [
         "USA300"
       ],
@@ -1482,25 +1482,25 @@
         ],
         "pafLocation": {
           "locationType": "UriLocation",
-          "uri": "./data/USA300/USA300_CI2136_alignment.paf"
+          "uri": "./data/USA300/USA300_CL2136_alignment.paf"
         }
       },
       "displays": [
         {
           "type": "DotplotDisplay",
-          "displayId": "USA300_CI2136_alignment-DotplotDisplay"
+          "displayId": "USA300_CL2136_alignment-DotplotDisplay"
         },
         {
           "type": "LinearComparativeDisplay",
-          "displayId": "USA300_CI2136_alignment-LinearComparativeDisplay"
+          "displayId": "USA300_CL2136_alignment-LinearComparativeDisplay"
         },
         {
           "type": "LinearSyntenyDisplay",
-          "displayId": "USA300_CI2136_alignment-LinearSyntenyDisplay"
+          "displayId": "USA300_CL2136_alignment-LinearSyntenyDisplay"
         },
         {
           "type": "LGVSyntenyDisplay",
-          "displayId": "USA300_CI2136_alignment-LGVSyntenyDisplay"
+          "displayId": "USA300_CL2136_alignment-LGVSyntenyDisplay"
         }
       ],
       "formatDetails": {
@@ -1592,7 +1592,7 @@
     },
     "minimized": false,
     "id": "HGyGmhbSgPclwODgMx7Yz",
-    "name": "AureoBrowse (v0.34)",
+    "name": "AureoBrowse (v0.35)",
     "margin": 0,
     "views": [
       {
@@ -1665,24 +1665,24 @@
         "displayedRegions": [
           {
             "reversed": false,
-            "refName": "CI2136_1",
+            "refName": "CL2136_1",
             "start": 0,
             "end": 2705939,
-            "assemblyName": "CI2136"
+            "assemblyName": "CL2136"
           }
         ],
         "tracks": [
           {
             "id": "kH8ThOMpLjAvO4tyTsdO4",
             "type": "ReferenceSequenceTrack",
-            "configuration": "CI2136-ReferenceSequenceTrack",
+            "configuration": "CL2136-ReferenceSequenceTrack",
             "minimized": false,
             "displays": [
               {
                 "id": "zpGpnW6wiWd68k7ryM6rF",
                 "type": "LinearReferenceSequenceDisplay",
                 "heightPreConfig": 50,
-                "configuration": "CI2136-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
+                "configuration": "CL2136-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
                 "showForward": true,
                 "showReverse": true,
                 "showTranslation": true
@@ -1692,13 +1692,13 @@
           {
             "id": "YmtKx3JMgGsPdusp8YV56",
             "type": "FeatureTrack",
-            "configuration": "CI2136_sorted.gff",
+            "configuration": "CL2136_sorted.gff",
             "minimized": false,
             "displays": [
               {
                 "id": "-OomrCr-M2B0b8pcukQ5K",
                 "type": "LinearBasicDisplay",
-                "configuration": "CI2136_sorted.gff-LinearBasicDisplay"
+                "configuration": "CL2136_sorted.gff-LinearBasicDisplay"
               }
             ]
           }
