@@ -1,12 +1,13 @@
 {
-  "dateCreated": "2025-03-15T18:27:34.409Z",
+  "dateCreated": "2025-03-15T18:27:31.286Z",
   "tracks": [
     {
-      "trackId": "USA300_sgRNA_sorted.gff",
+      "trackId": "CL2136_sorted.gff",
       "attributesIndexed": [
-        "Name",
-        "ID",
-        "name"
+        "name",
+        "gene",
+        "locus_tag",
+        "locus_tag_pan"
       ],
       "excludedTypes": [
         "CDS",
@@ -17,18 +18,18 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/USA300/USA300_sgRNA_sorted.gff.gz"
+          "uri": "data/CL2136/CL2136_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/USA300/USA300_sgRNA_sorted.gff.gz.tbi"
+            "uri": "data/CL2136/CL2136_sorted.gff.gz.tbi"
           }
         }
       }
     }
   ],
   "assemblyNames": [
-    "USA300"
+    "CL2136"
   ]
 }
