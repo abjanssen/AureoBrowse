@@ -9,5 +9,8 @@ We will come back to you as soon as possible.
 
 Have you been using our genome browser, please cite us in your work, it would help us:
 ```
-Available soon!
+Strain-resolved CRISPRi-Seq reveals conserved antibiotic vulnerabilities in Staphylococcus aureus
+Maria-Vittoria Mazzuoli, Jessica Burnier, Albane Schmid, Louise Martin, Axel B. Janssen, Clement Gallay, Annelies S. Zinkernagel, Jan-Willem Veening
+bioRxiv, 2025, 2025.10.13.682098
+https://doi.org/10.1101/2025.10.13.682098
 ```
