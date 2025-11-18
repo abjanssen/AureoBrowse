@@ -35,6 +35,12 @@
         "uri": "plugins/ReferenceContactsWidget.js"
       }
     },
+            {
+              "name": "MsaView",
+              "umdLoc": {
+                "uri": "plugins/jbrowse-plugin-msaview.umd.production.min.js"
+              }
+            },
     {
       "name": "NucContent",
       "umdLoc": {
@@ -1598,7 +1604,7 @@
     },
     "minimized": false,
     "id": "HGyGmhbSgPclwODgMx7Yz",
-    "name": "AureoBrowse (v0.50)",
+    "name": "AureoBrowse (v0.51)",
     "margin": 0,
     "views": [
       {
