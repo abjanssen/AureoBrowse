@@ -48,6 +48,12 @@
       }
     },
     {
+      "name": "Protein3d",
+      "umdLoc": {
+        "uri": "plugins/jbrowse-plugin-protein3d.umd.production.min.js"
+      }
+    },
+    {
       "name": "RemoveCOG",
       "umdLoc": {
         "uri": "plugins/RemoveCOG.js"
@@ -1604,7 +1610,7 @@
     },
     "minimized": false,
     "id": "HGyGmhbSgPclwODgMx7Yz",
-    "name": "AureoBrowse (v0.51)",
+    "name": "AureoBrowse (v0.52)",
     "margin": 0,
     "views": [
       {
