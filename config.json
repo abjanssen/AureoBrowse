@@ -1610,7 +1610,7 @@
     },
     "minimized": false,
     "id": "HGyGmhbSgPclwODgMx7Yz",
-    "name": "AureoBrowse (v0.53)",
+    "name": "AureoBrowse (v0.54)",
     "margin": 0,
     "views": [
       {
@@ -1799,6 +1799,7 @@
       },
       {
         "id": "QVTZijjEP9n9QWbSoUo1o",
+        "displayName": "USA300 (JE2)",
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
