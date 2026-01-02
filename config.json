@@ -1545,11 +1545,12 @@
     },
     "minimized": false,
     "id": "HGyGmhbSgPclwODgMx7Yz",
-    "name": "AureoBrowse (v0.55)",
+    "name": "AureoBrowse (v0.56)",
     "margin": 0,
     "views": [
       {
         "id": "FHRdzTr3EISg7BZ46UDFJ",
+        "displayName": "Cowan I",
         "minimized": false,
         "type": "LinearGenomeView",
         "offsetPx": 0,
@@ -1611,6 +1612,7 @@
       },
       {
         "id": "A0VhiFR53Vq4Ca7nIYrgr",
+        "displayName": "CL2136",
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
