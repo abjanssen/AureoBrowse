@@ -947,7 +947,7 @@
     {
       "type": "SyntenyTrack",
       "trackId": "Cowan_USA300_alignment",
-      "name": "Alignment with USA300",
+      "name": "Alignment with USA300 (JE2)",
       "assemblyNames": [
         "Cowan"
       ],
@@ -1033,7 +1033,7 @@
     {
       "type": "SyntenyTrack",
       "trackId": "Cowan_NCTC83254_alignment",
-      "name": "Alignment with NCTC8325-4",
+      "name": "Alignment with NCTC 8325-4",
       "assemblyNames": [
         "Cowan"
       ],
@@ -1076,7 +1076,7 @@
     {
       "type": "SyntenyTrack",
       "trackId": "CL2136_USA300_alignment",
-      "name": "Alignment with USA300",
+      "name": "Alignment with USA300 (JE2)",
       "assemblyNames": [
         "CL2136"
       ],
@@ -1119,7 +1119,7 @@
     {
       "type": "SyntenyTrack",
       "trackId": "CL2136_Cowan_alignment",
-      "name": "Alignment with Cowan",
+      "name": "Alignment with Cowan I",
       "assemblyNames": [
         "CL2136"
       ],
@@ -1162,7 +1162,7 @@
     {
       "type": "SyntenyTrack",
       "trackId": "CL2136_NCTC83254_alignment",
-      "name": "Alignment with NCTC8325-4",
+      "name": "Alignment with NCTC 8325-4",
       "assemblyNames": [
         "CL2136"
       ],
@@ -1205,7 +1205,7 @@
     {
       "type": "SyntenyTrack",
       "trackId": "NCTC83254_USA300_alignment",
-      "name": "Alignment with USA300",
+      "name": "Alignment with USA300 (JE2)",
       "assemblyNames": [
         "NCTC83254"
       ],
@@ -1248,7 +1248,7 @@
     {
       "type": "SyntenyTrack",
       "trackId": "NCTC83254_Cowan_alignment",
-      "name": "Alignment with Cowan",
+      "name": "Alignment with Cowan I",
       "assemblyNames": [
         "NCTC83254"
       ],
@@ -1334,7 +1334,7 @@
     {
       "type": "SyntenyTrack",
       "trackId": "USA300_NCTC83254_alignment",
-      "name": "Alignment with NCTC83254",
+      "name": "Alignment with NCTC 8325-4",
       "assemblyNames": [
         "USA300"
       ],
@@ -1377,7 +1377,7 @@
     {
       "type": "SyntenyTrack",
       "trackId": "USA300_Cowan_alignment",
-      "name": "Alignment with Cowan",
+      "name": "Alignment with Cowan I",
       "assemblyNames": [
         "USA300"
       ],
@@ -1545,7 +1545,7 @@
     },
     "minimized": false,
     "id": "HGyGmhbSgPclwODgMx7Yz",
-    "name": "AureoBrowse (v1.0.0)",
+    "name": "AureoBrowse (v1.0.1)",
     "margin": 0,
     "views": [
       {
