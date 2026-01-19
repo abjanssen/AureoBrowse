@@ -30,7 +30,6 @@
   },
   "plugins": [
   { "name": "MsaView", "umdLoc": { "uri": "plugins/jbrowse-plugin-msaview.umd.production.min.js" } },
-  { "name": "NucContent", "umdLoc": { "uri": "plugins/jbrowsepluginnuccontent.umd.production.min.js" } },
   { "name": "Protein3d", "umdLoc": { "uri": "plugins/jbrowse-plugin-protein3d.umd.production.min.js" } },
   { "name": "ReferenceContactsWidget", "esmLoc": { "uri": "plugins/ReferenceContactsWidget.js" } },
   { "name": "Inference", "umdLoc": { "uri": "plugins/Inference.js" } },
@@ -312,47 +311,42 @@
       }
     },
     {
-      "type": "NucContentTrack",
+      "type": "GCContentTrack",
       "trackId": "gc_content_Cowan",
       "name": "GC content",
       "assemblyNames": [
         "Cowan"
       ],
       "category": [
-        "Genome Characteristics"
+        "Genome characteristics",
+        "Miscellaneous"
       ],
       "adapter": {
-        "type": "NucContentAdapter",
-        "sequenceAdapter": {
-          "type": "BgzipFastaAdapter",
-          "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/Cowan/Cowan.fna.gz"
-          },
-          "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/Cowan/Cowan.fna.gz.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
-          },
-          "gziLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/Cowan/Cowan.fna.gz.gzi"
-          }
+        "type": "IndexedFastaAdapter",
+        "fastaLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/Cowan/Cowan.fna"
         },
-        "windowSize": 200,
-        "windowOverlap": 10
-      },
-      "displays": [
-        {
-          "type": "NucContentDisplay",
-          "displayId": "gc_content_dynamic_Cowan-NucContentDisplay",
-          "minScore": 0,
-          "maxScore": 0.8
+        "faiLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/Cowan/Cowan.fna.fai"
+        },
+        "metadataLocation": {
+          "locationType": "UriLocation",
+          "uri": "/path/to/fa.metadata.yaml"
         }
-      ]
+      },
+            "displays": [
+              {
+                "id": "j4N3EAiK2tC1KfjZwIiX-",
+                "type": "LinearGCContentTrackDisplay",
+                "configuration": "gc_content_Cowan-LinearGCContentTrackDisplay",
+                "selectedRendering": "",
+                "resolution": 1,
+                "windowSize": 200,
+                "windowDelta": 20
+              }
+            ]
     },
     {
       "type": "FeatureTrack",
@@ -492,47 +486,42 @@
       }
     },
     {
-      "type": "NucContentTrack",
+      "type": "GCContentTrack",
       "trackId": "gc_content_CL2136",
       "name": "GC content",
       "assemblyNames": [
         "CL2136"
       ],
       "category": [
-        "Genome Characteristics"
+        "Genome characteristics",
+        "Miscellaneous"
       ],
       "adapter": {
-        "type": "NucContentAdapter",
-        "sequenceAdapter": {
-          "type": "BgzipFastaAdapter",
-          "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/CL2136/CL2136.fna.gz"
-          },
-          "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/CL2136/CL2136.fna.gz.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
-          },
-          "gziLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/CL2136/CL2136.fna.gz.gzi"
-          }
+        "type": "IndexedFastaAdapter",
+        "fastaLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/CL2136/CL2136.fna"
         },
-        "windowSize": 200,
-        "windowOverlap": 10
-      },
-      "displays": [
-        {
-          "type": "NucContentDisplay",
-          "displayId": "gc_content_dynamic_CL2136-NucContentDisplay",
-          "minScore": 0,
-          "maxScore": 0.8
+        "faiLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/CL2136/CL2136.fna.fai"
+        },
+        "metadataLocation": {
+          "locationType": "UriLocation",
+          "uri": "/path/to/fa.metadata.yaml"
         }
-      ]
+      },
+            "displays": [
+              {
+                "id": "j4N3EAiK2tC1KfjZwIiX-",
+                "type": "LinearGCContentTrackDisplay",
+                "configuration": "gc_content_CL2136-LinearGCContentTrackDisplay",
+                "selectedRendering": "",
+                "resolution": 1,
+                "windowSize": 200,
+                "windowDelta": 20
+              }
+            ]
     },
     {
       "type": "FeatureTrack",
@@ -672,47 +661,42 @@
       }
     },
     {
-      "type": "NucContentTrack",
+      "type": "GCContentTrack",
       "trackId": "gc_content_NCTC83254",
       "name": "GC content",
       "assemblyNames": [
         "NCTC83254"
       ],
       "category": [
-        "Genome Characteristics"
+        "Genome characteristics",
+        "Miscellaneous"
       ],
       "adapter": {
-        "type": "NucContentAdapter",
-        "sequenceAdapter": {
-          "type": "BgzipFastaAdapter",
-          "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/NCTC83254/NCTC83254.fna.gz"
-          },
-          "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/NCTC83254/NCTC83254.fna.gz.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
-          },
-          "gziLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/NCTC83254/NCTC83254.fna.gz.gzi"
-          }
+        "type": "IndexedFastaAdapter",
+        "fastaLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/NCTC83254/NCTC83254.fna"
         },
-        "windowSize": 200,
-        "windowOverlap": 10
-      },
-      "displays": [
-        {
-          "type": "NucContentDisplay",
-          "displayId": "gc_content_dynamic_NCTC83254-NucContentDisplay",
-          "minScore": 0,
-          "maxScore": 0.8
+        "faiLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/NCTC83254/NCTC83254.fna.fai"
+        },
+        "metadataLocation": {
+          "locationType": "UriLocation",
+          "uri": "/path/to/fa.metadata.yaml"
         }
-      ]
+      },
+            "displays": [
+              {
+                "id": "j4N3EAiK2tC1KfjZwIiX-",
+                "type": "LinearGCContentTrackDisplay",
+                "configuration": "gc_content_NCTC83254-LinearGCContentTrackDisplay",
+                "selectedRendering": "",
+                "resolution": 1,
+                "windowSize": 200,
+                "windowDelta": 20
+              }
+            ]
     },
     {
       "type": "FeatureTrack",
@@ -852,47 +836,42 @@
       }
     },
     {
-      "type": "NucContentTrack",
+      "type": "GCContentTrack",
       "trackId": "gc_content_USA300",
       "name": "GC content",
       "assemblyNames": [
         "USA300"
       ],
       "category": [
-        "Genome Characteristics"
+        "Genome characteristics",
+        "Miscellaneous"
       ],
       "adapter": {
-        "type": "NucContentAdapter",
-        "sequenceAdapter": {
-          "type": "BgzipFastaAdapter",
-          "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/USA300/USA300.fna.gz"
-          },
-          "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/USA300/USA300.fna.gz.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
-          },
-          "gziLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/USA300/USA300.fna.gz.gzi"
-          }
+        "type": "IndexedFastaAdapter",
+        "fastaLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/USA300/USA300.fna"
         },
-        "windowSize": 200,
-        "windowOverlap": 10
-      },
-      "displays": [
-        {
-          "type": "NucContentDisplay",
-          "displayId": "gc_content_dynamic_USA300-NucContentDisplay",
-          "minScore": 0,
-          "maxScore": 0.8
+        "faiLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/USA300/USA300.fna.fai"
+        },
+        "metadataLocation": {
+          "locationType": "UriLocation",
+          "uri": "/path/to/fa.metadata.yaml"
         }
-      ]
+      },
+            "displays": [
+              {
+                "id": "j4N3EAiK2tC1KfjZwIiX-",
+                "type": "LinearGCContentTrackDisplay",
+                "configuration": "gc_content_USA300-LinearGCContentTrackDisplay",
+                "selectedRendering": "",
+                "resolution": 1,
+                "windowSize": 200,
+                "windowDelta": 20
+              }
+            ]
     },
     {
       "type": "SyntenyTrack",
@@ -1545,7 +1524,7 @@
     },
     "minimized": false,
     "id": "HGyGmhbSgPclwODgMx7Yz",
-    "name": "AureoBrowse (v1.0.1)",
+    "name": "AureoBrowse (v1.0.2)",
     "margin": 0,
     "views": [
       {
