@@ -27,7 +27,7 @@ export default class MyPlugin {
       null, 
       React.createElement('h1', null, 'Citing AureoBrowse'),
       React.createElement('p', null, 'Strain-resolved CRISPRi-Seq reveals conserved antibiotic vulnerabilities in ', React.createElement('i', null, 'Staphylococcus aureus'), '.'),
-      React.createElement('p', null, 'Maria-Vittoria Mazzuoli, Jessica Burnier, Albane Schmid, Louise Martin, Axel B. Janssen, Clement Gallay, Annelies S Zinkernagel, Jan-Willem Veening'),
+      React.createElement('p', null, 'Maria-Vittoria Mazzuoli, Jessica Burnier, Albane Schmid, Louise Martin, Axel B. Janssen, Clement Gallay, Annelies S. Zinkernagel, Jan-Willem Veening'),
       React.createElement('p', null, 'bioRxiv, 2025, 2025.10.13.682098'),
       React.createElement("span", null, React.createElement("a", {href: "https://doi.org/10.1101/2025.10.13.682098", target: "_blank", rel: "noopener noreferrer"}, "https://doi.org/10.1101/2025.10.13.682098" )))
       return React.createElement('div', null, [citecontent])
