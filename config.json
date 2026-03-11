@@ -19,7 +19,7 @@
           "main": "#4d4d4d"
         },
         "quaternary": {
-          "main": "#202020"
+          "main": "#fca311"
         }
       }
     },
@@ -57,10 +57,6 @@
           "faiLocation": {
             "locationType": "UriLocation",
             "uri": "./data/Cowan/Cowan.fna.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
           }
         },
         "displays": [
@@ -89,10 +85,6 @@
           "faiLocation": {
             "locationType": "UriLocation",
             "uri": "./data/USA300/USA300.fna.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
           }
         },
         "displays": [
@@ -121,10 +113,6 @@
           "faiLocation": {
             "locationType": "UriLocation",
             "uri": "./data/CL2136/CL2136.fna.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
           }
         },
         "displays": [
@@ -153,10 +141,6 @@
           "faiLocation": {
             "locationType": "UriLocation",
             "uri": "./data/NCTC83254/NCTC83254.fna.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
           }
         },
         "displays": [
@@ -330,10 +314,6 @@
         "faiLocation": {
           "locationType": "UriLocation",
           "uri": "./data/Cowan/Cowan.fna.fai"
-        },
-        "metadataLocation": {
-          "locationType": "UriLocation",
-          "uri": "/path/to/fa.metadata.yaml"
         }
       },
             "displays": [
@@ -505,10 +485,6 @@
         "faiLocation": {
           "locationType": "UriLocation",
           "uri": "./data/CL2136/CL2136.fna.fai"
-        },
-        "metadataLocation": {
-          "locationType": "UriLocation",
-          "uri": "/path/to/fa.metadata.yaml"
         }
       },
             "displays": [
@@ -680,10 +656,6 @@
         "faiLocation": {
           "locationType": "UriLocation",
           "uri": "./data/NCTC83254/NCTC83254.fna.fai"
-        },
-        "metadataLocation": {
-          "locationType": "UriLocation",
-          "uri": "/path/to/fa.metadata.yaml"
         }
       },
             "displays": [
@@ -855,10 +827,6 @@
         "faiLocation": {
           "locationType": "UriLocation",
           "uri": "./data/USA300/USA300.fna.fai"
-        },
-        "metadataLocation": {
-          "locationType": "UriLocation",
-          "uri": "/path/to/fa.metadata.yaml"
         }
       },
             "displays": [
@@ -1524,7 +1492,7 @@
     },
     "minimized": false,
     "id": "HGyGmhbSgPclwODgMx7Yz",
-    "name": "AureoBrowse (v1.0.6)",
+    "name": "AureoBrowse (v1.0.7)",
     "margin": 0,
     "views": [
       {
@@ -1533,7 +1501,7 @@
         "minimized": false,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 3.0413625304136254,
+        "bpPerPx": 2.31033020718,
         "displayedRegions": [
           {
             "reversed": false,
@@ -1553,7 +1521,7 @@
               {
                 "id": "ta87oF8bDp5jz3sGXgfzs",
                 "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 50,
+                "height": 100,
                 "configuration": "Cowan-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
                 "showForward": true,
                 "showReverse": true,
@@ -1570,6 +1538,7 @@
               {
                 "id": "sFkSzFulUNfwzSOOnKv1L",
                 "type": "LinearBasicDisplay",
+                "heightPreConfig": 200,
                 "configuration": "Cowan_sorted.gff-LinearBasicDisplay"
               }
             ]
@@ -1595,7 +1564,7 @@
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 3.0413625304136254,
+        "bpPerPx": 2.31033020718,
         "displayedRegions": [
           {
             "reversed": false,
@@ -1615,7 +1584,7 @@
               {
                 "id": "zpGpnW6wiWd68k7ryM6rF",
                 "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 50,
+                "heightPreConfig": 100,
                 "configuration": "CL2136-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
                 "showForward": true,
                 "showReverse": true,
@@ -1632,6 +1601,7 @@
               {
                 "id": "-OomrCr-M2B0b8pcukQ5K",
                 "type": "LinearBasicDisplay",
+                "heightPreConfig": 200,
                 "configuration": "CL2136_sorted.gff-LinearBasicDisplay"
               }
             ]
@@ -1657,7 +1627,7 @@
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 3.0413625304136254,
+        "bpPerPx": 2.31033020718,
         "displayedRegions": [
           {
             "reversed": false,
@@ -1677,7 +1647,7 @@
               {
                 "id": "3awOaOdyScJXDomsw6uZn",
                 "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 50,
+                "heightPreConfig": 100,
                 "configuration": "NCTC83254-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
                 "showForward": true,
                 "showReverse": true,
@@ -1694,6 +1664,7 @@
               {
                 "id": "AfKFo8UHn8NWAugf-1CnA",
                 "type": "LinearBasicDisplay",
+                "heightPreConfig": 200,
                 "configuration": "NCTC83254_sorted.gff-LinearBasicDisplay"
               }
             ]
@@ -1719,7 +1690,7 @@
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 3.0413625304136254,
+        "bpPerPx": 2.31033020718,
         "displayedRegions": [
           {
             "reversed": false,
@@ -1739,7 +1710,7 @@
               {
                 "id": "b6PSKH27WNjvj3AE8qOQD",
                 "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 50,
+                "heightPreConfig": 100,
                 "configuration": "USA300-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
                 "showForward": true,
                 "showReverse": true,
@@ -1756,6 +1727,7 @@
               {
                 "id": "w9rfptxOSZ4czz225AEzN",
                 "type": "LinearBasicDisplay",
+                "heightPreConfig": 200,
                 "configuration": "USA300_sorted.gff-LinearBasicDisplay"
               }
             ]
